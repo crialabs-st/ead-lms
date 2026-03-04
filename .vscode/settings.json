@@ -1,0 +1,146 @@
+{
+  // ========== EDITOR - CORE SETTINGS ==========
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "on",
+  "editor.autoIndent": "brackets",
+  "editor.autoIndentOnPaste": true,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+
+  "editor.foldingMaxConstraintregion": 10000,
+
+  // ========== CODE ACTIONS - COMPLETAMENTE DESABILITADAS ==========
+  "editor.codeActionsOnSave": {},
+  "editor.codeActionsOnSaveTimeout": 0,
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "editor.suggest.insertMode": "replace",
+
+  "editor.suggest.showWords": true,
+  "editor.suggest.showIcons": true,
+  "editor.suggest.shareSuggestSelections": true,
+
+  // ========== FILES ==========
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/dist": true,
+    "**/.turbo": true,
+    "**/.git": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/.next/**": true,
+    "**/dist/**": true,
+    "**/.turbo/**": true,
+    "**/coverage/**": true,
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/.prisma/**": true,
+    "**/build/**": true,
+    "**/out/**": true
+  },
+
+  // ========== TYPESCRIPT ==========
+  "typescript.tsdk": "./node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.validate.enable": true,
+  "typescript.preferences.includePackageJsonAutoImports": "on",
+  "typescript.questionmark.enabled": false,
+  "typescript.tsserver.maxTsServerMemory": 4096,
+  "typescript.tsserver.experimental.enableProjectDiagnostics": false,
+  "typescript.tsserver.useSyntaxServer": "auto",
+  "typescript.tsserver.lazyOutlineComputation": true,
+  "typescript.tsserver.logVerbosity": "off",
+  "typescript.implementationsCodeLens.enabled": true,
+  "typescript.referencesCodeLens.enabled": false,
+  "typescript.disableAutomaticTypeAcquisition": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  // ========== ESLINT - DESABILITADO PARA EVITAR LOOPS ==========
+  "eslint.enable": false,
+  "eslint.format.enable": false,
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+
+  // ========== LINTING / DIAGNOSTICS ==========
+  "editor.lightbulb.enabled": "on",
+  "editor.parameterHints.enabled": true,
+  "editor.parameterHints.cycle": false,
+  "editor.inlineHints.enabled": false,
+  "editor.inlineHints.fontFamily": "",
+
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": false
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features",
+    "editor.formatOnSave": false
+  },
+
+  // ========== PRISMA ==========
+  "prisma.pinToPrisma6": false,
+
+  // ========== UI / UX ==========
+  "emmet.showExpandedAbbreviation": "never",
+  "breadcrumbs.enabled": true,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.tree.enableKeyboardNavigation": true,
+
+  // ========== PERFORMANCE - AGGRESSIVE ==========
+  "editor.occurrencesHighlight": "multiFile",
+  "editor.matchBrackets": "always",
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.minimap.enabled": true,
+  "editor.tokenColorCustomizationsExperimental": {},
+  "editor.stickyScroll.enabled": true,
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.lineNumbers": "on",
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.verticalSliderSize": 12,
+  "editor.scrollbar.horizontalSliderSize": 12,
+  "editor.fontLigatures": true,
+
+  // ========== SEARCH ==========
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/dist": true,
+    "**/.turbo": true,
+    "**/coverage": true
+  },
+  "search.quickOpen.history.filterSortOrder": "recency",
+
+  // ========== CHAT & AI TOOLS ==========
+  "chat.tools.terminal.autoApprove": {
+    "bun": true,
+    "pnpm": true
+  }
+}
