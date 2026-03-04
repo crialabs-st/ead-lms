@@ -353,7 +353,7 @@ const { default: statsRoutes } = await import('@/routes/stats.js');
 const { default: metricsRoutes } = await import('@/routes/metrics.js');
 const { default: adminSessionsRoutes } =
   await import('@/routes/admin-sessions.js');
-const { educationRoutes } = await import('@/routes/education.js');
+const { default: educationRoutes } = await import('@/routes/education.js');
 
 metricsService.start();
 

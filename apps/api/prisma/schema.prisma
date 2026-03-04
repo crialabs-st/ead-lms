@@ -1,0 +1,339 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/client"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum Role {
+  user
+  student
+  instructor
+  teaching_assistant
+  admin
+  super_admin
+}
+
+enum LessonType {
+  VIDEO
+  QUIZ
+  TEXT
+  FILE
+  ACTIVITY
+  FORUM
+  LIVE
+}
+
+enum EnrollmentStatus {
+  ACTIVE
+  INACTIVE
+  DROPPED
+}
+
+// User model with better-auth support
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  emailVerified Boolean   @default(false)
+  name          String?
+  image         String?
+  role          Role      @default(user)
+  banned        Boolean   @default(false)
+  banReason     String?
+  banExpires    DateTime?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  sessions          Session[]
+  accounts          Account[]
+  uploads           Upload[]
+
+  coursesAdministered Course[]
+  classesInstructed   Class[]      @relation("InstructorClasses")
+  disciplinesInstructed Discipline[] @relation("InstructorDisciplines")
+  enrollments       Enrollment[]
+  quizzesTaken      QuizTaken[]
+  submissions       LessonSubmission[]
+  forumPosts        ForumPost[]
+  forumReplies      ForumReply[]
+
+  @@map("users")
+}
+
+// Session model for better-auth
+model Session {
+  id             String   @id @default(cuid())
+  userId         String
+  expiresAt      DateTime
+  token          String   @unique
+  ipAddress      String?
+  userAgent      String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([expiresAt])
+  @@map("sessions")
+}
+
+// Account model for OAuth providers
+// IMPORTANT: This schema MUST match Better Auth's expected fields exactly
+// Do NOT modify field names without checking Better Auth documentation
+// https://www.better-auth.com/docs/concepts/database#account-model
+model Account {
+  id                     String    @id @default(cuid())
+  userId                 String
+  accountId              String
+  providerId             String
+  accessToken            String?
+  refreshToken           String?
+  idToken                String?
+  accessTokenExpiresAt   DateTime? // OAuth access token expiration
+  refreshTokenExpiresAt  DateTime? // OAuth refresh token expiration
+  scope                  String?   // OAuth scopes granted
+  password               String?   // For credential provider (email/password)
+  createdAt              DateTime  @default(now())
+  updatedAt              DateTime  @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([providerId, accountId])
+  @@index([userId])
+  @@map("accounts")
+}
+
+// Verification model for email verification and password reset
+model Verification {
+  id         String   @id @default(cuid())
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@unique([identifier, value])
+  @@map("verifications")
+}
+
+model Upload {
+  id           String   @id @default(cuid())
+  filename     String   @unique
+  originalName String
+  mimeType     String
+  size         Int     // in Bytes
+  url          String
+  userId       String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([createdAt])
+  @@map("uploads")
+}
+
+// LMS Models
+
+model Course {
+  id          String   @id @default(cuid())
+  code        String   @unique
+  name        String
+  description String?
+  image       String?
+  adminId     String
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  admin     User    @relation(fields: [adminId], references: [id], onDelete: Restrict)
+  classes   Class[]
+
+  @@index([adminId])
+  @@map("courses")
+}
+
+model Class {
+  id            String   @id @default(cuid())
+  courseId      String
+  semester      String   // Ex: "2024.1"
+  code          String   // Ex: "T01", "T02"
+  instructorId  String
+  capacity      Int?
+  startDate     DateTime?
+  endDate       DateTime?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  course       Course       @relation(fields: [courseId], references: [id], onDelete: Cascade)
+  instructor   User         @relation("InstructorClasses", fields: [instructorId], references: [id], onDelete: Restrict)
+  disciplines  Discipline[]
+  enrollments  Enrollment[]
+
+  @@unique([courseId, semester, code])
+  @@index([courseId])
+  @@index([instructorId])
+  @@map("classes")
+}
+
+model Discipline {
+  id           String   @id @default(cuid())
+  classId      String
+  code         String
+  name         String
+  description  String?
+  creditHours  Int?
+  instructorId String
+  order        Int?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  class       Class     @relation(fields: [classId], references: [id], onDelete: Cascade)
+  instructor  User      @relation("InstructorDisciplines", fields: [instructorId], references: [id], onDelete: Restrict)
+  lessons     Lesson[]
+
+  @@unique([classId, code])
+  @@index([classId])
+  @@index([instructorId])
+  @@map("disciplines")
+}
+
+model Lesson {
+  id           String   @id @default(cuid())
+  disciplineId String
+  type         LessonType
+  title        String
+  description  String?
+  content      Json? // Stores type-specific content
+  order        Int?
+  publishedAt  DateTime?
+  dueDate      DateTime?
+  points       Float?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  discipline       Discipline            @relation(fields: [disciplineId], references: [id], onDelete: Cascade)
+  quizQuestions    QuizQuestion[]
+  quizzesTaken     QuizTaken[]
+  submissions      LessonSubmission[]
+  forumPosts       ForumPost[]
+
+  @@index([disciplineId])
+  @@index([publishedAt])
+  @@map("lessons")
+}
+
+model QuizQuestion {
+  id        String   @id @default(cuid())
+  lessonId  String
+  text      String
+  options   Json // Array of options
+  correctOption Int
+  points    Float?
+  order     Int?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+
+  @@index([lessonId])
+  @@map("quiz_questions")
+}
+
+model QuizTaken {
+  id        String   @id @default(cuid())
+  lessonId  String
+  userId    String
+  answers   Json // User's answers
+  score     Float?
+  takenAt   DateTime @default(now())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([lessonId, userId])
+  @@index([lessonId])
+  @@index([userId])
+  @@map("quizzes_taken")
+}
+
+model LessonSubmission {
+  id         String   @id @default(cuid())
+  lessonId   String
+  userId     String
+  content    String? // File URL or text content
+  grade      Float?
+  feedback   String?
+  submittedAt DateTime @default(now())
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  lesson Lesson @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  user   User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([lessonId, userId])
+  @@index([lessonId])
+  @@index([userId])
+  @@map("lesson_submissions")
+}
+
+model ForumPost {
+  id        String   @id @default(cuid())
+  lessonId  String
+  userId    String
+  title     String?
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  lesson   Lesson      @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  author   User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  replies  ForumReply[]
+
+  @@index([lessonId])
+  @@index([userId])
+  @@map("forum_posts")
+}
+
+model ForumReply {
+  id        String   @id @default(cuid())
+  postId    String
+  userId    String
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  post   ForumPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+  author User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([postId])
+  @@index([userId])
+  @@map("forum_replies")
+}
+
+model Enrollment {
+  id             String   @id @default(cuid())
+  classId        String
+  userId         String
+  status         EnrollmentStatus @default(ACTIVE)
+  enrollmentDate DateTime @default(now())
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  class Class @relation(fields: [classId], references: [id], onDelete: Cascade)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([classId, userId])
+  @@index([classId])
+  @@index([userId])
+  @@map("enrollments")
+}
+
