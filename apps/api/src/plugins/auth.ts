@@ -113,7 +113,7 @@ const authPlugin: FastifyPluginAsync = async (app) => {
     ],
   });
 
-  app.decorate('auth', auth);
+  app.decorate('auth', auth as any);
 
   app.all(
     '/api/auth/*',

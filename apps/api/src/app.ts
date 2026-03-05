@@ -17,6 +17,8 @@ import type { RateLimitRole } from '@/config/rate-limit';
 import { RATE_LIMIT_CONFIG } from '@/config/rate-limit';
 import { metricsService } from '@/services/metrics.service';
 
+import paymentRoutes from './routes/payments';
+
 const env = loadEnv();
 
 export const app = Fastify({
@@ -153,6 +155,8 @@ await app.register(scalarPlugin);
 
 const { default: schedulePlugin } = await import('@/plugins/schedule.js');
 await app.register(schedulePlugin);
+
+await app.register(paymentRoutes);
 
 const errorHandler = (
   error: FastifyError,
@@ -353,7 +357,12 @@ const { default: statsRoutes } = await import('@/routes/stats.js');
 const { default: metricsRoutes } = await import('@/routes/metrics.js');
 const { default: adminSessionsRoutes } =
   await import('@/routes/admin-sessions.js');
-const { default: educationRoutes } = await import('@/routes/education.js');
+const { default: coursesRoutes } = await import('@/routes/courses.js');
+const { default: classesRoutes } = await import('@/routes/classes.js');
+const { default: disciplinesRoutes } = await import('@/routes/disciplines.js');
+const { default: lessonsRoutes } = await import('@/routes/lessons.js');
+const { default: enrollmentsRoutes } = await import('@/routes/enrollments.js');
+const { default: submissionsRoutes } = await import('@/routes/submissions.js');
 
 metricsService.start();
 
@@ -370,7 +379,12 @@ await app.register(
     await app.register(statsRoutes);
     await app.register(metricsRoutes);
     await app.register(adminSessionsRoutes);
-    await app.register(educationRoutes);
+    await app.register(coursesRoutes);
+    await app.register(classesRoutes);
+    await app.register(disciplinesRoutes);
+    await app.register(lessonsRoutes);
+    await app.register(enrollmentsRoutes);
+    await app.register(submissionsRoutes);
   },
   { prefix: '/api' }
 );

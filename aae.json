@@ -1,0 +1,3193 @@
+{
+  "courses": [
+    {
+      "modality": {
+        "graduacao": [
+              {
+                "courseName": "Administração",
+                "courseSlug": "administracao",
+                "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 2
+          },
+          {
+            "courseName": "Administração Pública",
+            "courseSlug": "administracao-publica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3386
+          },
+          {
+            "courseName": "Agentes Autônomos e Automação de Conhecimento",
+            "courseSlug": "agentes-autonomos-e-automacao-de-conhecimento",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6724
+          },
+          {
+            "courseName": "Análise e Desenvolvimento de Sistemas",
+            "courseSlug": "analise-e-desenvolvimento-de-sistemas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4340
+          },
+          {
+            "courseName": "Arquitetura e Urbanismo",
+            "courseSlug": "arquitetura-e-urbanismo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 38
+          },
+          {
+            "courseName": "Artes Visuais",
+            "courseSlug": "artes-visuais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 945
+          },
+          {
+            "courseName": "Automação Industrial",
+            "courseSlug": "automacao-industrial",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4229
+          },
+          {
+            "courseName": "Banco de Dados",
+            "courseSlug": "banco-de-dados",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7716
+          },
+          {
+            "courseName": "Biblioteconomia",
+            "courseSlug": "biblioteconomia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3403
+          },
+          {
+            "courseName": "Biomedicina",
+            "courseSlug": "biomedicina",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 832
+          },
+          {
+            "courseName": "Ciência da Computação",
+            "courseSlug": "ciencia-da-computacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 556
+          },
+          {
+            "courseName": "Ciência de Dados",
+            "courseSlug": "ciencia-de-dados",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7714
+          },
+          {
+            "courseName": "Ciências Aeronáuticas",
+            "courseSlug": "ciencias-aeronauticas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6000
+          },
+          {
+            "courseName": "Ciências Biológicas - Bacharelado",
+            "courseSlug": "ciencias-biologicas-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4030
+          },
+          {
+            "courseName": "Ciências Biológicas - Licenciatura",
+            "courseSlug": "ciencias-biologicas-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 463
+          },
+          {
+            "courseName": "Ciências Contábeis",
+            "courseSlug": "ciencias-contabeis",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 22
+          },
+          {
+            "courseName": "Ciências da Natureza",
+            "courseSlug": "ciencias-da-natureza",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4519
+          },
+          {
+            "courseName": "Ciências Econômicas",
+            "courseSlug": "ciencias-economicas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3
+          },
+          {
+            "courseName": "Ciências Exatas",
+            "courseSlug": "ciencias-exatas",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Ciências Humanas",
+            "courseSlug": "ciencias-humanas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4521
+          },
+          {
+            "courseName": "Ciências Políticas",
+            "courseSlug": "ciencias-politicas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3405
+          },
+          {
+            "courseName": "Ciências Sociais",
+            "courseSlug": "ciencias-sociais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4989
+          },
+          {
+            "courseName": "Cinema",
+            "courseSlug": "cinema",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 48
+          },
+          {
+            "courseName": "Comércio Exterior",
+            "courseSlug": "comercio-exterior",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4342
+          },
+          {
+            "courseName": "Computação - Licenciatura",
+            "courseSlug": "computacao-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4523
+          },
+          {
+            "courseName": "Comunicação Institucional",
+            "courseSlug": "comunicacao-institucional",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4369
+          },
+          {
+            "courseName": "Cozinha Contemporânea",
+            "courseSlug": "cozinha-contemporanea",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4389
+          },
+          {
+            "courseName": "Defesa Cibernética",
+            "courseSlug": "defesa-cibernetica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7717
+          },
+          {
+            "courseName": "Desenvolvimento Full Stack",
+            "courseSlug": "desenvolvimento-full-stack",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7124
+          },
+          {
+            "courseName": "Design",
+            "courseSlug": "design",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 2215
+          },
+          {
+            "courseName": "Design Comportamental e Nudges Éticos",
+            "courseSlug": "design-comportamental-e-nudges-eticos",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6719
+          },
+          {
+            "courseName": "Design de Interiores",
+            "courseSlug": "design-de-interiores",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4056
+          },
+          {
+            "courseName": "Design de Moda - Bacharelado",
+            "courseSlug": "design-de-moda-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 775
+          },
+          {
+            "courseName": "Design de Moda - Tecnólogo",
+            "courseSlug": "design-de-moda-tecnologo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4350
+          },
+          {
+            "courseName": "Design Gráfico",
+            "courseSlug": "design-grafico",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 9084
+          },
+          {
+            "courseName": "Direito",
+            "courseSlug": "direito",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 1
+          },
+          {
+            "courseName": "Educação Física - Bacharelado",
+            "courseSlug": "educacao-fisica-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4004
+          },
+          {
+            "courseName": "Educação Física - Licenciatura",
+            "courseSlug": "educacao-fisica-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4003
+          },
+          {
+            "courseName": "Empreendedorismo",
+            "courseSlug": "empreendedorismo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7721
+          },
+          {
+            "courseName": "Enfermagem",
+            "courseSlug": "enfermagem",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 166
+          },
+          {
+            "courseName": "Engenharia Agronômica",
+            "courseSlug": "engenharia-agronomica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3450
+          },
+          {
+            "courseName": "Engenharia Civil",
+            "courseSlug": "engenharia-civil",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 372
+          },
+          {
+            "courseName": "Engenharia da Computação",
+            "courseSlug": "engenharia-da-computacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 839
+          },
+          {
+            "courseName": "Engenharia de Controle e Automação",
+            "courseSlug": "engenharia-de-controle-e-automacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4002
+          },
+          {
+            "courseName": "Engenharia de Produção",
+            "courseSlug": "engenharia-de-producao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 207
+          },
+          {
+            "courseName": "Engenharia de Software",
+            "courseSlug": "engenharia-de-software",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3389
+          },
+          {
+            "courseName": "Engenharia Elétrica",
+            "courseSlug": "engenharia-eletrica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 862
+          },
+          {
+            "courseName": "Engenharia Mecânica",
+            "courseSlug": "engenharia-mecanica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 841
+          },
+          {
+            "courseName": "Engenharia Química",
+            "courseSlug": "engenharia-quimica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 825
+          },
+          {
+            "courseName": "Estética",
+            "courseSlug": "estetica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 2219
+          },
+          {
+            "courseName": "Estética e Cosmética",
+            "courseSlug": "estetica-e-cosmetica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4200
+          },
+          {
+            "courseName": "Farmácia",
+            "courseSlug": "farmacia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 167
+          },
+          {
+            "courseName": "Filosofia",
+            "courseSlug": "filosofia-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 645
+          },
+          {
+            "courseName": "Fisioterapia",
+            "courseSlug": "fisioterapia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 29
+          },
+          {
+            "courseName": "Fotografia",
+            "courseSlug": "fotografia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4059
+          },
+          {
+            "courseName": "Gastronomia",
+            "courseSlug": "gastronomia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4337
+          },
+          {
+            "courseName": "Geografia - Bacharelado",
+            "courseSlug": "geografia-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4020
+          },
+          {
+            "courseName": "Geografia - Licenciatura",
+            "courseSlug": "geografia-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Geografia - Segunda Licenciatura",
+            "courseSlug": "geografia-segunda-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4509
+          },
+          {
+            "courseName": "Gerontologia - Bem Estar e Educação",
+            "courseSlug": "gerontologia-bem-estar-e-educacao",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Gestão Ambiental",
+            "courseSlug": "gestao-ambiental",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4345
+          },
+          {
+            "courseName": "Gestão Comercial",
+            "courseSlug": "gestao-comercial",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4347
+          },
+          {
+            "courseName": "Gestão da Qualidade",
+            "courseSlug": "gestao-da-qualidade",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4370
+          },
+          {
+            "courseName": "Gestão da Tecnologia da Informação",
+            "courseSlug": "gestao-da-tecnologia-da-informacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4334
+          },
+          {
+            "courseName": "Gestão da Transição Energética e Economia Verde",
+            "courseSlug": "gestao-da-transicao-energetica-e-economia-verde",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6723
+          },
+          {
+            "courseName": "Gestão de Cooperativas",
+            "courseSlug": "gestao-de-cooperativas",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3411
+          },
+          {
+            "courseName": "Gestão de Mídias Digitais",
+            "courseSlug": "gestao-de-midias-digitais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 5142
+          },
+          {
+            "courseName": "Gestão de Mídias Sociais",
+            "courseSlug": "gestao-de-midias-sociais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 5143
+          },
+          {
+            "courseName": "Gestão de Mídias Sociais e Comunidades",
+            "courseSlug": "gestao-de-midias-sociai-e-comunidades",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6720
+          },
+          {
+            "courseName": "Gestão de Produção Industrial",
+            "courseSlug": "gestao-de-producao-industrial",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4390
+          },
+          {
+            "courseName": "Gestão de Recursos Humanos",
+            "courseSlug": "gestao-de-recursos-humanos",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4070
+          },
+          {
+            "courseName": "Gestão de Segurança Privada",
+            "courseSlug": "gestao-de-seguranca-privada",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4346
+          },
+          {
+            "courseName": "Gestão de Serviços para a Longevidade",
+            "courseSlug": "gestao-de-servicos-para-a-longevidade",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6721
+          },
+          {
+            "courseName": "Gestão de Turismo",
+            "courseSlug": "gestao-de-turismo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7723
+          },
+          {
+            "courseName": "Gestão Desportiva e de Lazer",
+            "courseSlug": "gestao-desportiva-e-de-lazer",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 5140
+          },
+          {
+            "courseName": "Gestão e Empreendedorismo",
+            "courseSlug": "gestao-e-empreendedorismo",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Gestão em e-commerce",
+            "courseSlug": "gestao-em-e-commerce",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4999
+          },
+          {
+            "courseName": "Gestão Financeira",
+            "courseSlug": "gestao-financeira",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4366
+          },
+          {
+            "courseName": "Gestão Hospitalar",
+            "courseSlug": "gestao-hospitalar",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7724
+          },
+          {
+            "courseName": "Gestão Pública",
+            "courseSlug": "gestao-publica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7725
+          },
+          {
+            "courseName": "Governança de IA e Auditoria Algorítmica",
+            "courseSlug": "governanca-de-ia-e-auditoria-agoritmica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6722
+          },
+          {
+            "courseName": "História - Bacharelado",
+            "courseSlug": "historia-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4018
+          },
+          {
+            "courseName": "História - Formação Pedagógica",
+            "courseSlug": "historia-formacao-pedagogica",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "História - Licenciatura",
+            "courseSlug": "historia-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4017
+          },
+          {
+            "courseName": "História - Segunda Licenciatura",
+            "courseSlug": "historia-segunda-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4503
+          },
+          {
+            "courseName": "Investigação Forense e Perícia Criminal",
+            "courseSlug": "investigacao-forense-e-pericia-criminal",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4081
+          },
+          {
+            "courseName": "Jogos Digitais",
+            "courseSlug": "jogos-digitais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4355
+          },
+          {
+            "courseName": "Jornalismo",
+            "courseSlug": "jornalismo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4000
+          },
+          {
+            "courseName": "Letras - Espanhol",
+            "courseSlug": "letras-espanhol",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4026
+          },
+          {
+            "courseName": "Letras - Espanhol - Formação Pedagógica",
+            "courseSlug": "letras-espanhol-formacao-pedagogica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4508
+          },
+          {
+            "courseName": "Letras - Espanhol - Segunda Licenciatura",
+            "courseSlug": "letras-espanhol-segunda-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Letras - Inglês - Licenciatura",
+            "courseSlug": "letras-ingles-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4024
+          },
+          {
+            "courseName": "Letras - Libras - Língua Portuguesa - Licenciatura",
+            "courseSlug": "letras-libras-lingua-portuguesa-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4512
+          },
+          {
+            "courseName": "Letras - Língua Portuguesa",
+            "courseSlug": "letras-lingua-portuguesa",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4510
+          },
+          {
+            "courseName": "Letras - Língua Portuguesa - Formação Pedagógica",
+            "courseSlug": "letras-lingua-portuguesa-formacao-pedagogica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4502
+          },
+          {
+            "courseName": "Letras - Língua Portuguesa - Licenciatura",
+            "courseSlug": "letras-lingua-portuguesa-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4022
+          },
+          {
+            "courseName": "Letras - Língua Portuguesa - Segunda Licenciatura",
+            "courseSlug": "letras-lingua-portuguesa-segunda-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4504
+          },
+          {
+            "courseName": "Logística",
+            "courseSlug": "logistica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4339
+          },
+          {
+            "courseName": "Marketing",
+            "courseSlug": "marketing",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4341
+          },
+          {
+            "courseName": "Marketing Digital",
+            "courseSlug": "marketing-digital",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3631
+          },
+          {
+            "courseName": "Matemática - Bacharelado",
+            "courseSlug": "matematica-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4511
+          },
+          {
+            "courseName": "Matemática - Formação Pedagógica - Licenciatura",
+            "courseSlug": "matematica-formacao-pedagogica-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 2963
+          },
+          {
+            "courseName": "Matemática - Licenciatura",
+            "courseSlug": "matematica-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 10
+          },
+          {
+            "courseName": "Matemática - Segunda Licenciatura",
+            "courseSlug": "matematica-segunda-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Mediação",
+            "courseSlug": "mediacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4080
+          },
+          {
+            "courseName": "Medicina",
+            "courseSlug": "medicina",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 51
+          },
+          {
+            "courseName": "Medicina Veterinária",
+            "courseSlug": "medicina-veterinaria",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 46
+          },
+          {
+            "courseName": "Negócios Imobiliários",
+            "courseSlug": "negocios-imobiliarios",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4079
+          },
+          {
+            "courseName": "Nutrição",
+            "courseSlug": "nutricao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 52
+          },
+          {
+            "courseName": "Odontologia",
+            "courseSlug": "odontologia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 34
+          },
+          {
+            "courseName": "Pedagogia - Licenciatura",
+            "courseSlug": "pedagogia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 11
+          },
+          {
+            "courseName": "Processos Escolares",
+            "courseSlug": "processos-escolares",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Processos Gerenciais",
+            "courseSlug": "processos-gerenciais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4359
+          },
+          {
+            "courseName": "Produção Audiovisual",
+            "courseSlug": "producao-audiovisual",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4367
+          },
+          {
+            "courseName": "Produção Criativa com IA",
+            "courseSlug": "producao-criativa-com-ia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6725
+          },
+          {
+            "courseName": "Produção de Conteúdo Digital",
+            "courseSlug": "producao-de-conteudo-digital",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 5141
+          },
+          {
+            "courseName": "Produção Fonográfica",
+            "courseSlug": "producao-fonografica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4343
+          },
+          {
+            "courseName": "Psicologia",
+            "courseSlug": "psicologia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 21
+          },
+          {
+            "courseName": "Psicopedagogia",
+            "courseSlug": "psicopedagogia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3409
+          },
+          {
+            "courseName": "Publicidade e Propaganda",
+            "courseSlug": "publicidade-e-propaganda",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4001
+          },
+          {
+            "courseName": "Química - Licenciatura",
+            "courseSlug": "quimica-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Radiologia",
+            "courseSlug": "radiologia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4097
+          },
+          {
+            "courseName": "Redes de Computadores",
+            "courseSlug": "redes-de-computadores",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4054
+          },
+          {
+            "courseName": "Relações Internacionais",
+            "courseSlug": "relacoes-internacionais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 19
+          },
+          {
+            "courseName": "Secretariado Executivo",
+            "courseSlug": "secretariado-executivo",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3391
+          },
+          {
+            "courseName": "Segurança no Trabalho",
+            "courseSlug": "seguranca-no-trabalho",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3390
+          },
+          {
+            "courseName": "Segurança Pública",
+            "courseSlug": "seguranca-publica",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 7727
+          },
+          {
+            "courseName": "Serviço Social",
+            "courseSlug": "servico-social",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 289
+          },
+          {
+            "courseName": "Serviços Jurídicos e Notariais",
+            "courseSlug": "servicos-juridicos-e-notariais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3634
+          },
+          {
+            "courseName": "Sistemas de Informação",
+            "courseSlug": "sistemas-de-informacao",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 35
+          },
+          {
+            "courseName": "Sistemas para Internet",
+            "courseSlug": "sistemas-para-internet",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4349
+          },
+          {
+            "courseName": "Teatro - Licenciatura",
+            "courseSlug": "teatro-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4021
+          },
+          {
+            "courseName": "Tecnologia em Terapêuticas Digitais ",
+            "courseSlug": "tecnologia-em-terapeuticas-digitais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6726
+          },
+          {
+            "courseName": "Tecnologias Educacionais",
+            "courseSlug": "tecnologias-educacionais",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 4517
+          },
+          {
+            "courseName": "Teologia - Bacharelado",
+            "courseSlug": "teologia",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 646
+          },
+          {
+            "courseName": "Terapia Ocupacional",
+            "courseSlug": "terapia-ocupacional",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 3723
+          },
+          {
+            "courseName": "Turismo - Bacharelado",
+            "courseSlug": "turismo-bacharelado",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 5
+          },
+          {
+            "courseName": "Turismo - Licenciatura",
+            "courseSlug": "turismo-licenciatura",
+            "slug": "cursos/graduacao",
+            "type": null,
+            "code": null
+          },
+          {
+            "courseName": "Varejo Digital",
+            "courseSlug": "varejo-digital",
+            "slug": "cursos/graduacao",
+            "type": "GRAD",
+            "code": 6696
+          }
+        ],
+        "posGraduacao": [
+          {
+            "courseName": " Inteligência Artificial para Devs",
+            "courseSlug": "inteligencia-artificial-para-devs",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8686
+          },
+          {
+            "courseName": " Soluções Estratégicas em ESG e Sustentabilidade",
+            "courseSlug": "solucoes-estrategicas-em-esg-e-sustentabilidade",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8700
+          },
+          {
+            "courseName": "Abordagem Multidisciplinar em TEA",
+            "courseSlug": "abordagem-multidisciplinar-em-tea",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8705
+          },
+          {
+            "courseName": "Administração de Banco de Dados",
+            "courseSlug": "administracao-de-banco-de-dados",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8702
+          },
+          {
+            "courseName": "Administração de Bibliotecas Públicas e Escolares",
+            "courseSlug": "administracao-de-bibliotecas-publicas-e-escolares",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6152
+          },
+          {
+            "courseName": "Administração e Marketing Esportivo",
+            "courseSlug": "administracao-e-marketing-esportivo",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3499
+          },
+          {
+            "courseName": "Administração e Segurança de Sistemas Computacionais",
+            "courseSlug": "administracao-e-seguranca-de-sistemas-computacionais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4129
+          },
+          {
+            "courseName": "Administração Industrial 4.0",
+            "courseSlug": "administracao-industrial-40",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3481
+          },
+          {
+            "courseName": "Agroengenharia",
+            "courseSlug": "agroengenharia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5210
+          },
+          {
+            "courseName": "Agronegócio",
+            "courseSlug": "agronegocio",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8704
+          },
+          {
+            "courseName": "Alfabetização e letramento: teoria e metodologia",
+            "courseSlug": "alfabetizacao-e-letramento-teoria-metodologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5309
+          },
+          {
+            "courseName": "Análise e Desenvolvimento de Sistemas",
+            "courseSlug": "pos-em-analise-e-desenvolvimento-de-sistemas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8532
+          },
+          {
+            "courseName": "Análises Clínicas",
+            "courseSlug": "analises-clinicas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4136
+          },
+          {
+            "courseName": "Análises Clínicas e Toxicológicas",
+            "courseSlug": "analises-clinicas-e-toxicologicas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3500
+          },
+          {
+            "courseName": "Arquitetura e Projetos de Cloud Computing",
+            "courseSlug": "arquitetura-e-projetos-de-cloud-computing",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2872
+          },
+          {
+            "courseName": "Assessoria de Comunicação",
+            "courseSlug": "assessoria-de-comunicacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6216
+          },
+          {
+            "courseName": "Assistência Social e Saúde Pública",
+            "courseSlug": "assistencia-social-e-saude-publica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5159
+          },
+          {
+            "courseName": "Auditoria Bancária",
+            "courseSlug": "auditoria-bancaria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6147
+          },
+          {
+            "courseName": "Auditoria e Gestão em Serviços de Enfermagem",
+            "courseSlug": "auditoria-e-gestao-em-servicos-de-enfermagem",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5360
+          },
+          {
+            "courseName": "Auditoria Fiscal e Gestão de Tributos",
+            "courseSlug": "auditoria-fiscal-e-gestao-de-tributos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3191
+          },
+          {
+            "courseName": "Auditoria Governamental",
+            "courseSlug": "auditoria-governamental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3324
+          },
+          {
+            "courseName": "BI, Big Data e Analytics aplicados aos negócios (12 meses)",
+            "courseSlug": "bi-big-data-e-analytics-aplicados-aos-negocios",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5307
+          },
+          {
+            "courseName": "BI, Big Data e Analytics aplicados aos negócios (6 meses)",
+            "courseSlug": "bi-big-data-e-analytics-aplicados-aos-negocios-2",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5416
+          },
+          {
+            "courseName": "Biomecânica Aplicada ao Exercício e ao Treinamento",
+            "courseSlug": "biomecanica-aplicada-ao-exercicio-e-ao-treinamento",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5246
+          },
+          {
+            "courseName": "Biomecânica e Fisiologia do Exercício",
+            "courseSlug": "biomecanica-e-fisiologia-do-exercicio",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6231
+          },
+          {
+            "courseName": "Biotecnologia",
+            "courseSlug": "biotecnologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8718
+          },
+          {
+            "courseName": "Cibersegurança",
+            "courseSlug": "ciberseguranca",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8681
+          },
+          {
+            "courseName": "Cidades Inteligentes",
+            "courseSlug": "cidades-inteligentes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5161
+          },
+          {
+            "courseName": "Ciência de Dados e Big Data Analytics",
+            "courseSlug": "ciencia-de-dados-e-big-data-analytics",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2883
+          },
+          {
+            "courseName": "Ciência Política",
+            "courseSlug": "ciencia-politica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3510
+          },
+          {
+            "courseName": "Ciências Ambientais e Análise Ambiental",
+            "courseSlug": "ciencias-ambientais-e-analise-ambiental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3511
+          },
+          {
+            "courseName": "Ciências Forenses e Perícia Criminal",
+            "courseSlug": "ciencias-forenses-e-pericia-criminal",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4166
+          },
+          {
+            "courseName": "Ciências Sociais",
+            "courseSlug": "pos-em-ciencias-sociais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5326
+          },
+          {
+            "courseName": "Cinema e Produção Audiovisual",
+            "courseSlug": "cinema-e-producao-audiovisual",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5330
+          },
+          {
+            "courseName": "Clínica Médica de Pequenos Animais",
+            "courseSlug": "clinica-medica-de-pequenos-animais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3379
+          },
+          {
+            "courseName": "Clínica Psicanalítica",
+            "courseSlug": "clinica-psicanalitica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6232
+          },
+          {
+            "courseName": "Compliance na Gestão Pública",
+            "courseSlug": "compliance-na-gestao-publica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6153
+          },
+          {
+            "courseName": "Computação Acelerada por GPU",
+            "courseSlug": "computacao-acelerada-por-gpu",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8701
+          },
+          {
+            "courseName": "Computação de Alto Desempenho",
+            "courseSlug": "computacao-de-alto-desempenho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5228
+          },
+          {
+            "courseName": "Comunicação e Marketing em Mídias Digitais",
+            "courseSlug": "comunicacao-e-marketing-em-midias-digitais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2788
+          },
+          {
+            "courseName": "Consultoria Contábil",
+            "courseSlug": "consultoria-contabil",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3420
+          },
+          {
+            "courseName": "Contabilidade Aplicada ao Setor Público",
+            "courseSlug": "contabilidade-aplicada-ao-setor-publico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5350
+          },
+          {
+            "courseName": "Cosmetologia e Dermofarmácia",
+            "courseSlug": "cosmetologia-e-dermofarmacia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8706
+          },
+          {
+            "courseName": "Cosmetologia e Estética Avançada",
+            "courseSlug": "cosmetologia-e-estetica-avancada",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4398
+          },
+          {
+            "courseName": "Criminologia",
+            "courseSlug": "criminologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6199
+          },
+          {
+            "courseName": "Criptomoedas e Ativos Digitais",
+            "courseSlug": "criptomoedas-e-ativos-digitais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8683
+          },
+          {
+            "courseName": "Dermatologia Veterinária",
+            "courseSlug": "dermatologia-veterinaria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5418
+          },
+          {
+            "courseName": "Desenvolvimento de Jogos Digitais",
+            "courseSlug": "desenvolvimento-de-jogos-digitais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2880
+          },
+          {
+            "courseName": "Desenvolvimento full stack",
+            "courseSlug": "pos-desenvolvimento-full-stack",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5171
+          },
+          {
+            "courseName": "Desenvolvimento Mobile",
+            "courseSlug": "desenvolvimento-mobile",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2879
+          },
+          {
+            "courseName": "Desenvolvimento Orientado a Objetos com Java",
+            "courseSlug": "desenvolvimento-orientado-a-objetos-com-java",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3513
+          },
+          {
+            "courseName": "Design de Mobiliário",
+            "courseSlug": "design-de-mobiliario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5162
+          },
+          {
+            "courseName": "DevOps",
+            "courseSlug": "pos-devops",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5229
+          },
+          {
+            "courseName": "Direito Ambiental e Sustentabilidade",
+            "courseSlug": "direito-ambiental-e-sustentabilidade",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5351
+          },
+          {
+            "courseName": "Direito Aplicado aos Serviços De Saúde",
+            "courseSlug": "direito-aplicado-aos-servicos-de-saude",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3515
+          },
+          {
+            "courseName": "Direito Civil e Processo Civil com Ênfase em Prática",
+            "courseSlug": "direito-civil-e-processo-civil-com-enfase-em-pratica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8697
+          },
+          {
+            "courseName": "Direito Civil e Processual Civil",
+            "courseSlug": "direito-civil-e-processual-civil",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2794
+          },
+          {
+            "courseName": "Direito de Família",
+            "courseSlug": "direito-de-familia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3470
+          },
+          {
+            "courseName": "Direito Digital e Proteção de Dados",
+            "courseSlug": "direito-digital-e-protecao-de-dados",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8698
+          },
+          {
+            "courseName": "Direito e Planejamento Tributário",
+            "courseSlug": "direito-e-planejamento-tributario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2865
+          },
+          {
+            "courseName": "Direito e Processo do Trabalho e Direito Previdenciário",
+            "courseSlug": "direito-e-processo-do-trabalho-e-direito-previdenciario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2776
+          },
+          {
+            "courseName": "Direito e Tecnologia: Legaltechs e Inteligência Artificial",
+            "courseSlug": "direito-e-tecnologia-legaltechs-e-inteligencia-artificial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8717
+          },
+          {
+            "courseName": "Direito Empresarial",
+            "courseSlug": "direito-empresarial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3471
+          },
+          {
+            "courseName": "Direito Imobiliário",
+            "courseSlug": "direito-imobiliario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5151
+          },
+          {
+            "courseName": "Direito Internacional",
+            "courseSlug": "direito-internacional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5152
+          },
+          {
+            "courseName": "Direito Militar",
+            "courseSlug": "direito-militar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4139
+          },
+          {
+            "courseName": "Direito Penal e Processual Penal",
+            "courseSlug": "direito-penal-e-processual-penal",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2604
+          },
+          {
+            "courseName": "Direito Previdenciário",
+            "courseSlug": "direito-previdenciario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8699
+          },
+          {
+            "courseName": "Direito Público: Constitucional, Administrativo e Tributário",
+            "courseSlug": "direito-publico-constitucional-administrativo-e-tributario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2775
+          },
+          {
+            "courseName": "Direitos Humanos, Inclusão e Políticas Públicas",
+            "courseSlug": "direitos-humanos-inclusao-politicas-publicas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5304
+          },
+          {
+            "courseName": "Docência e Gestão do Ensino Superior",
+            "courseSlug": "docencia-e-gestao-do-ensino-superior",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2767
+          },
+          {
+            "courseName": "Docência e Prática da Meditação",
+            "courseSlug": "docencia-e-pratica-da-meditacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5154
+          },
+          {
+            "courseName": "Docência no Ensino Superior",
+            "courseSlug": "docencia-no-ensino-superior",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8690
+          },
+          {
+            "courseName": "Educação 5.0",
+            "courseSlug": "educacao-5-0",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5216
+          },
+          {
+            "courseName": "Educação Especial na Perspectiva da Educação Inclusiva",
+            "courseSlug": "educacao-especial-na-perspectiva-da-educacao-inclusiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3280
+          },
+          {
+            "courseName": "Educação Física Escolar",
+            "courseSlug": "educacao-fisica-escolar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 1486
+          },
+          {
+            "courseName": "Educação Física Inclusiva e Neurociência",
+            "courseSlug": "educacao-fisica-inclusiva-e-neurociencia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5352
+          },
+          {
+            "courseName": "Educação Inclusiva e Mediação Escolar",
+            "courseSlug": "educacao-inclusiva-e-mediacao-escolar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5289
+          },
+          {
+            "courseName": "Educação Infantil e Anos Iniciais",
+            "courseSlug": "educacao-infantil-e-anos-iniciais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5308
+          },
+          {
+            "courseName": "Enfermagem Clínico-Cirúrgica",
+            "courseSlug": "enfermagem-clinico-cirurgica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6120
+          },
+          {
+            "courseName": "Enfermagem do Trabalho",
+            "courseSlug": "enfermagem-do-trabalho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2797
+          },
+          {
+            "courseName": "Enfermagem em Captação, Doação e Transplante de Órgãos e Tecidos",
+            "courseSlug": "enfermagem-em-captacao-doacao-e-transplante-de-orgaos-e-tecido",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5163
+          },
+          {
+            "courseName": "Enfermagem em Cardiologia",
+            "courseSlug": "enfermagem-em-cardiologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6160
+          },
+          {
+            "courseName": "Enfermagem em Centro Cirúrgico e Central de Material",
+            "courseSlug": "enfermagem-em-centro-cirurgico-e-central-de-material",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3483
+          },
+          {
+            "courseName": "Enfermagem em Clínica Médica",
+            "courseSlug": "enfermagem-em-clinica-medica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6121
+          },
+          {
+            "courseName": "Enfermagem em Dermatologia",
+            "courseSlug": "enfermagem-em-dermatologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6148
+          },
+          {
+            "courseName": "Enfermagem em Estomaterapia",
+            "courseSlug": "enfermagem-em-estomaterapia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6173
+          },
+          {
+            "courseName": "Enfermagem em Infectologia",
+            "courseSlug": "enfermagem-em-infectologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3360
+          },
+          {
+            "courseName": "Enfermagem em Nefrologia",
+            "courseSlug": "enfermagem-em-nefrologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6122
+          },
+          {
+            "courseName": "Enfermagem em Pediatria e UTI Pediátrica e Neonatal",
+            "courseSlug": "enfermagem-em-pediatria-e-uti-pediatrica-e-neonatal",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3486
+          },
+          {
+            "courseName": "Enfermagem em Psiquiatria e Saúde Mental",
+            "courseSlug": "enfermagem-em-psiquiatria-e-saude-mental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3488
+          },
+          {
+            "courseName": "Enfermagem em Radiologia e Imaginologia",
+            "courseSlug": "enfermagem-em-radiologia-e-imaginologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3489
+          },
+          {
+            "courseName": "Enfermagem em Saúde da Mulher",
+            "courseSlug": "enfermagem-em-saude-da-mulher",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5165
+          },
+          {
+            "courseName": "Enfermagem em Saúde do Idoso e Gerontologia",
+            "courseSlug": "enfermagem-em-saude-do-idoso-e-gerontologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6191
+          },
+          {
+            "courseName": "Enfermagem em Unidade de Terapia Intensiva",
+            "courseSlug": "enfermagem-em-unidade-de-terapia-intensiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6143
+          },
+          {
+            "courseName": "Enfermagem em Urgências e Emergências em Pediatria e Neonatologia",
+            "courseSlug": "enfermagem-em-urgencias-e-emergencias-em-pediatria-e-neonatologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6162
+          },
+          {
+            "courseName": "Enfermagem Neonatal e Pediátrica",
+            "courseSlug": "enfermagem-neonatal-e-pediatrica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6234
+          },
+          {
+            "courseName": "Enfermagem Oncológica",
+            "courseSlug": "enfermagem-oncologica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3519
+          },
+          {
+            "courseName": "Engenharia Agroindustrial",
+            "courseSlug": "engenharia-agroindustrial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5221
+          },
+          {
+            "courseName": "Engenharia Ambiental e Saneamento Básico",
+            "courseSlug": "engenharia-ambiental-e-saneamento-basico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2841
+          },
+          {
+            "courseName": "Engenharia Biomédica com Enfase em Engenharia Clínica",
+            "courseSlug": "engenharia-biomedica-com-enfase-em-engenharia-clinica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2897
+          },
+          {
+            "courseName": "Engenharia da Manutenção Industrial",
+            "courseSlug": "engenharia-da-manutencao-industrial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4110
+          },
+          {
+            "courseName": "Engenharia de Alimentos",
+            "courseSlug": "engenharia-de-alimentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5220
+          },
+          {
+            "courseName": "Engenharia de Controle e Automação",
+            "courseSlug": "pos-engenharia-de-controle-e-automacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5173
+          },
+          {
+            "courseName": "Engenharia de Dados",
+            "courseSlug": "engenharia-de-dados",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5322
+          },
+          {
+            "courseName": "Engenharia de Dados e Inteligência Artificial",
+            "courseSlug": "engenharia-de-dados-e-inteligencia-artificial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8694
+          },
+          {
+            "courseName": "Engenharia de Estruturas",
+            "courseSlug": "engenharia-de-estruturas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6211
+          },
+          {
+            "courseName": "Engenharia de Materiais",
+            "courseSlug": "engenharia-de-materiais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5288
+          },
+          {
+            "courseName": "Engenharia de Processos da Construção Civil e Metalmecânico",
+            "courseSlug": "engenharia-de-processos-da-construcao-civil-e-metalmecanico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5211
+          },
+          {
+            "courseName": "Engenharia de Produção: Gerenciamento e Operações",
+            "courseSlug": "engenharia-de-producao-gerenciamento-e-operacoes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5212
+          },
+          {
+            "courseName": "Engenharia de Redes de Telecomunicações",
+            "courseSlug": "engenharia-de-redes-de-telecomunicacoes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4140
+          },
+          {
+            "courseName": "Engenharia de Segurança do Trabalho",
+            "courseSlug": "engenharia-de-seguranca-do-trabalho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6212
+          },
+          {
+            "courseName": "Engenharia de Software",
+            "courseSlug": "pos-engenharia-de-software",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2809
+          },
+          {
+            "courseName": "Engenharia elétrica",
+            "courseSlug": "pos-engenharia-eletrica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4100
+          },
+          {
+            "courseName": "Engenharia Química: Controle de Processos",
+            "courseSlug": "engenharia-quimica-controle-de-processos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3301
+          },
+          {
+            "courseName": "Engenharia Rodoviária e Infraestrutura Urbana",
+            "courseSlug": "engenharia-rodoviaria-e-infraestrutura-urbana",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5331
+          },
+          {
+            "courseName": "Ensino da Matemática",
+            "courseSlug": "ensino-da-matematica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5323
+          },
+          {
+            "courseName": "Ensino de Língua Espanhola",
+            "courseSlug": "ensino-de-lingua-espanhola",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5188
+          },
+          {
+            "courseName": "Ensino de Língua Inglesa",
+            "courseSlug": "ensino-de-lingua-inglesa",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5189
+          },
+          {
+            "courseName": "ESG: Gestão e Investimentos",
+            "courseSlug": "mba-em-esg-gestao-e-investimentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5169
+          },
+          {
+            "courseName": "Experiência do Usuário (UX / UI)",
+            "courseSlug": "experiencia-do-usuario",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8709
+          },
+          {
+            "courseName": "Experiências Imersivas e Tecnologias Emergentes",
+            "courseSlug": "experiencias-imersivas-e-tecnologias-emergentes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8703
+          },
+          {
+            "courseName": "Farmácia Clínica e Atenção Farmacêutica",
+            "courseSlug": "farmacia-clinica-e-atencao-farmaceutica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3524
+          },
+          {
+            "courseName": "Farmácia Clínica e Prescrição Farmacêutica",
+            "courseSlug": "farmacia-clinica-e-prescricao-farmaceutica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5327
+          },
+          {
+            "courseName": "Farmácia Clínica em Oncologia",
+            "courseSlug": "farmacia-clinica-em-oncologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3528
+          },
+          {
+            "courseName": "Farmácia Hospitalar",
+            "courseSlug": "farmacia-hospitalar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3530
+          },
+          {
+            "courseName": "Farmacologia Clínica",
+            "courseSlug": "farmacologia-clinica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3176
+          },
+          {
+            "courseName": "Filosofia Contemporânea",
+            "courseSlug": "filosofia-contemporanea",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5359
+          },
+          {
+            "courseName": "FinOps",
+            "courseSlug": "finops",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8685
+          },
+          {
+            "courseName": "Fisiologia do Exercício Aplicada a Prescrição do Treinamento",
+            "courseSlug": "fisiologia-do-exercicio-aplicada-a-prescricao-do-treinamento",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5243
+          },
+          {
+            "courseName": "Fisiologia Humana Aplicada às Ciências da Saúde",
+            "courseSlug": "fisiologia-humana-aplicada-as-ciencias-da-saude",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3533
+          },
+          {
+            "courseName": "Fisioterapia Dermato Funcional",
+            "courseSlug": "fisioterapia-dermato-funcional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6203
+          },
+          {
+            "courseName": "Fisioterapia do Trabalho e Ergonomia",
+            "courseSlug": "fisioterapia-do-trabalho-e-ergonomia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6127
+          },
+          {
+            "courseName": "Fisioterapia em Gerontologia",
+            "courseSlug": "fisioterapia-em-gerontologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3536
+          },
+          {
+            "courseName": "Fisioterapia em Terapia Intensiva Neonatal e Pediátrica",
+            "courseSlug": "fisioterapia-em-terapia-intensiva-neonatal-e-pediatrica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6204
+          },
+          {
+            "courseName": "Fisioterapia em Terapia Intensiva no Adulto",
+            "courseSlug": "fisioterapia-em-terapia-intensiva-no-adulto",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3490
+          },
+          {
+            "courseName": "Fisioterapia Esportiva",
+            "courseSlug": "fisioterapia-esportiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6128
+          },
+          {
+            "courseName": "Fisioterapia Intensiva",
+            "courseSlug": "fisioterapia-intensiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4178
+          },
+          {
+            "courseName": "Fisioterapia na Saúde da Mulher",
+            "courseSlug": "fisioterapia-na-saude-da-mulher",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3493
+          },
+          {
+            "courseName": "Fisioterapia Neurofuncional",
+            "courseSlug": "fisioterapia-neurofuncional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5020
+          },
+          {
+            "courseName": "Fisioterapia Neurofuncional Pediátrica",
+            "courseSlug": "fisioterapia-neurofuncional-pediatrica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6207
+          },
+          {
+            "courseName": "Fisioterapia Ortopédica e Traumatológica",
+            "courseSlug": "fisioterapia-ortopedica-e-traumatologica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6129
+          },
+          {
+            "courseName": "Fisioterapia Pelvica e Uroginecologia Funcional",
+            "courseSlug": "fisioterapia-pelvica-e-uroginecologia-funcional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6238
+          },
+          {
+            "courseName": "Fitoterapia Aplicada à Nutrição",
+            "courseSlug": "fitoterapia-aplicada-a-nutricao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5203
+          },
+          {
+            "courseName": "Formação de Gestores de Contratos Administrativos",
+            "courseSlug": "formacao-de-gestores-de-contratos-administrativos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6161
+          },
+          {
+            "courseName": "Gastronomia com ênfase em Culinária Brasileira",
+            "courseSlug": "gastronomia-com-enfase-em-culinaria-brasileira",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5094
+          },
+          {
+            "courseName": "Gastronomia e Empreendedorismo em Nutrição",
+            "courseSlug": "gastronomia-e-empreendedorismo-em-nutricao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8531
+          },
+          {
+            "courseName": "Gastronomia Vegetariana e Vegana",
+            "courseSlug": "gastronomia-vegetariana-e-vegana",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3306
+          },
+          {
+            "courseName": "Gerenciamento Ágil de Projetos",
+            "courseSlug": "gerenciamento-agil-de-projetos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6209
+          },
+          {
+            "courseName": "Gerenciamento de Construções",
+            "courseSlug": "gerenciamento-de-construcoes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6246
+          },
+          {
+            "courseName": "Gerenciamento de Mobilidade Urbana",
+            "courseSlug": "gerenciamento-da-mobilidade-urbana",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6163
+          },
+          {
+            "courseName": "Gestão Ambiental",
+            "courseSlug": "pos-gestao-ambiental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3535
+          },
+          {
+            "courseName": "Gestão da Comunicação Integrada de Marketing (CIM)",
+            "courseSlug": "gestao-da-comunicacao-integrada-de-marketing",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5305
+          },
+          {
+            "courseName": "Gestão da Qualidade e Melhoria Contínua",
+            "courseSlug": "mba-em-gestao-da-qualidade-e-melhoria-continua",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5328
+          },
+          {
+            "courseName": "Gestão da Qualidade e Sistemas Integrados QSMS",
+            "courseSlug": "gestao-da-qualidade-e-sistemas-integrados-qsms",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4131
+          },
+          {
+            "courseName": "Gestão de Condomínios",
+            "courseSlug": "gestao-de-condominios",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5280
+          },
+          {
+            "courseName": "Gestão de Custos Empresariais",
+            "courseSlug": "gestao-de-custos-empresariais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6144
+          },
+          {
+            "courseName": "Gestão de Equipes de Alta Performance",
+            "courseSlug": "gestao-de-equipes-de-alta-performance",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3494
+          },
+          {
+            "courseName": "Gestão de Hospitalidade e Hotelaria",
+            "courseSlug": "gestao-de-hospitalidade-e-hotelaria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3307
+          },
+          {
+            "courseName": "Gestão de Manutenção em Aeronaves",
+            "courseSlug": "gestao-de-manutencao-em-aeronaves",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3537
+          },
+          {
+            "courseName": "Gestão de Negócios Digitais",
+            "courseSlug": "gestao-de-negocios-digitais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8689
+          },
+          {
+            "courseName": "Gestão de Pessoas e Processos no Setor Público",
+            "courseSlug": "gestao-de-pessoas-e-processos-no-setor-publico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5200
+          },
+          {
+            "courseName": "Gestão de Projetos e Programas Sociais",
+            "courseSlug": "gestao-de-projetos-e-programas-sociais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3538
+          },
+          {
+            "courseName": "Gestão de Recursos Hídricos e Meio Ambiente",
+            "courseSlug": "gestao-de-recursos-hidricos-e-meio-ambiente",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6214
+          },
+          {
+            "courseName": "Gestão do Setor Elétrico",
+            "courseSlug": "gestao-do-setor-eletrico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8716
+          },
+          {
+            "courseName": "Gestão e Serviço Social",
+            "courseSlug": "gestao-e-servico-social",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3495
+          },
+          {
+            "courseName": "Gestão Eletrônica de Documentos",
+            "courseSlug": "gestao-eletronica-de-documentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6165
+          },
+          {
+            "courseName": "Gestão em Saneamento Ambiental",
+            "courseSlug": "gestao-em-saneamento-ambiental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6245
+          },
+          {
+            "courseName": "Gestão Escolar e Coordenação Pedagógica",
+            "courseSlug": "gestao-escolar-e-coordenacao-pedagogica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8691
+          },
+          {
+            "courseName": "Gestão Escolar, Supervisão e Orientação Pedagógica e Educacional",
+            "courseSlug": "gestao-escolar-supervisao-e-orientacao-pedagogica-e-educacional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3281
+          },
+          {
+            "courseName": "Gestão Estratégica da Tecnologia da Informação",
+            "courseSlug": "gestao-estrategica-da-tecnologia-da-informacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3540
+          },
+          {
+            "courseName": "Gestão Estratégica de Marketing e Vendas",
+            "courseSlug": "gestao-estrategica-de-marketing-e-vendas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6222
+          },
+          {
+            "courseName": "Gestão Industrial Farmacêutica",
+            "courseSlug": "gestao-industrial-farmaceutica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3541
+          },
+          {
+            "courseName": "Gestão Municipal",
+            "courseSlug": "gestao-municipal",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6180
+          },
+          {
+            "courseName": "Gestão na Cibersegurança Empresarial",
+            "courseSlug": "gestao-na-ciberseguranca-empresarial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6223
+          },
+          {
+            "courseName": "Gestão na Saúde Pública",
+            "courseSlug": "gestao-na-saude-publica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5353
+          },
+          {
+            "courseName": "Gestão na Segurança e Saúde do Trabalho",
+            "courseSlug": "gestao-na-seguranca-e-saude-do-trabalho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6224
+          },
+          {
+            "courseName": "Gestão, Consultoria, Auditoria, Perícia e Fiscalização Ambiental",
+            "courseSlug": "gestao-consultoria-auditoria-pericia-e-fiscalizacao-ambiental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5021
+          },
+          {
+            "courseName": "Gestão, Educação e Segurança no Trânsito",
+            "courseSlug": "gestao-educacao-e-seguranca-no-transito",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6166
+          },
+          {
+            "courseName": "Grupos Especiais: Fisiologia do Exercício e Treinamento Físico",
+            "courseSlug": "grupos-especiais-fisiologia-do-exercicio-e-treinamento-fisico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5245
+          },
+          {
+            "courseName": "Hematologia Clínica e Hemoterapia em Pequenos Animais",
+            "courseSlug": "hematologia-clinica-e-hemoterapia-em-pequenos-animais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5276
+          },
+          {
+            "courseName": "Hematologia e Hemoterapia",
+            "courseSlug": "hematologia-e-hemoterapia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5403
+          },
+          {
+            "courseName": "História da Arte",
+            "courseSlug": "historia-da-arte",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5354
+          },
+          {
+            "courseName": "História do Brasil",
+            "courseSlug": "historia-do-brasil",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6201
+          },
+          {
+            "courseName": "IA para Negócios: agentes autônomos e tomada inteligente de decisão",
+            "courseSlug": "ia-para-negocios-agentes-autonomos-e-tomada-inteligente-de-decisao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8710
+          },
+          {
+            "courseName": "Inteligência Artificial Aplicada a Finanças Quantitativas e Criptoativos",
+            "courseSlug": "inteligencia-artificial-aplicada-a-Financas-quantitativas-e-criptoativos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8712
+          },
+          {
+            "courseName": "Inteligência Artificial e Tecnologias Educacionais",
+            "courseSlug": "inteligencia-artificial-e-tecnologias-educacionais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8692
+          },
+          {
+            "courseName": "Inteligência Artificial na Saúde",
+            "courseSlug": "inteligencia-artificial-na-saude",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8707
+          },
+          {
+            "courseName": "Inteligência de Mercado",
+            "courseSlug": "pos-inteligencia-de-mercado",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8711
+          },
+          {
+            "courseName": "Legislação, Perícia e Auditoria Ambiental",
+            "courseSlug": "legislacao-pericia-e-auditoria-ambiental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2871
+          },
+          {
+            "courseName": "Licitações e Compras Públicas Sustentáveis",
+            "courseSlug": "licitacoes-e-compras-publicas-sustentaveis",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6149
+          },
+          {
+            "courseName": "Liderança e Coaching",
+            "courseSlug": "lideranca-e-coaching",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2866
+          },
+          {
+            "courseName": "Língua Espanhola e Suas Literaturas",
+            "courseSlug": "lingua-espanhola-e-suas-literaturas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5187
+          },
+          {
+            "courseName": "Língua Inglesa e Suas Literaturas",
+            "courseSlug": "lingua-inglesa-e-suas-literaturas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5190
+          },
+          {
+            "courseName": "Marketing Estratégico, Gestão de Dados e Growth | Estácio",
+            "courseSlug": "marketing-estrategico-gestao-de-dados-e-growth",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8713
+          },
+          {
+            "courseName": "Matemática: Bases, modelagens e aplicações",
+            "courseSlug": "matematica-bases-modelagens-e-aplicacoes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5227
+          },
+          {
+            "courseName": "MBA em Administração Estratégica",
+            "courseSlug": "mba-administracao-estrategica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2836
+          },
+          {
+            "courseName": "MBA em Administração Estratégica em Gestão da Saúde  | Estácio - EAD ou Presencial",
+            "courseSlug": "mba-em-administracao-estrategica-em-gestao-da-saude",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5265
+          },
+          {
+            "courseName": "MBA em Administração Pública",
+            "courseSlug": "mba-administracao-publica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2837
+          },
+          {
+            "courseName": "MBA em Assessoria Executiva",
+            "courseSlug": "mba-assessoria-executiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3545
+          },
+          {
+            "courseName": "MBA em Auditoria de Sistemas de Saúde  | Estácio - EAD ou Presencial",
+            "courseSlug": "mba-em-auditoria-de-sistemas-de-saude",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5270
+          },
+          {
+            "courseName": "MBA em Compliance e Gestão de Riscos",
+            "courseSlug": "mba-compliance-e-gestao-de-riscos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4138
+          },
+          {
+            "courseName": "MBA em Comunicação Corporativa",
+            "courseSlug": "mba-comunicacao-corporativa",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3546
+          },
+          {
+            "courseName": "MBA em Comunicação e Marketing de Serviços",
+            "courseSlug": "mba-comunicacao-e-marketing-de-servicos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6167
+          },
+          {
+            "courseName": "MBA em Comunicação e Marketing de Turismo",
+            "courseSlug": "mba-comunicacao-e-marketing-de-turismo",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6168
+          },
+          {
+            "courseName": "MBA em Comunicação e Marketing de Varejo",
+            "courseSlug": "mba-comunicacao-e-marketing-de-varejo",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3340
+          },
+          {
+            "courseName": "MBA em Comunicação Eleitoral e Marketing Politico",
+            "courseSlug": "mba-comunicacao-eleitoral-e-marketing-politico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3548
+          },
+          {
+            "courseName": "MBA em Comunicação Institucional e Gestão de Marcas",
+            "courseSlug": "mba-comunicacao-institucional-e-gestao-de-marcas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6181
+          },
+          {
+            "courseName": "MBA em Consultoria Empresarial",
+            "courseSlug": "mba-consultoria-empresarial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2874
+          },
+          {
+            "courseName": "MBA em Curadoria, Museologia e Gestão de Exposições",
+            "courseSlug": "mba-curadoria-museologia-e-gestao-de-exposicoes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6145
+          },
+          {
+            "courseName": "MBA em Departamento Pessoal e Relações Trabalhistas",
+            "courseSlug": "mba-departamento-pessoal-e-relacoes-trabalhistas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5303
+          },
+          {
+            "courseName": "MBA em Direção de Arte Para Propaganda, TV e Vídeo",
+            "courseSlug": "mba-direcao-de-arte-para-propaganda-tv-e-video",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3549
+          },
+          {
+            "courseName": "MBA em Educação Corporativa e Gestão do Conhecimento",
+            "courseSlug": "mba-educacao-corporativa-e-gestao-do-conhecimento",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2789
+          },
+          {
+            "courseName": "MBA em Engenharia e Gestão de Energias Renováveis",
+            "courseSlug": "mba-engenharia-e-gestao-de-energias-renovaveis",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2922
+          },
+          {
+            "courseName": "MBA em Gestão Bancária",
+            "courseSlug": "mba-gestao-bancaria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6183
+          },
+          {
+            "courseName": "MBA em Gestão Comercial e Vendas (12 meses)",
+            "courseSlug": "mba-em-gestao-comercial-e-vendas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4967
+          },
+          {
+            "courseName": "MBA em Gestão Comercial e Vendas (6 meses)",
+            "courseSlug": "mba-em-gestao-comercial-e-vendas-2",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5414
+          },
+          {
+            "courseName": "MBA em Gestão da Inovação e Empreendedorismo",
+            "courseSlug": "mba-gestao-da-inovacao-e-empreendedorismo",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5022
+          },
+          {
+            "courseName": "MBA em Gestão da Qualidade",
+            "courseSlug": "mba-em-gestao-da-qualidade",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5157
+          },
+          {
+            "courseName": "MBA em Gestão da Saúde e Administração Hospitalar",
+            "courseSlug": "mba-em-gestao-da-saude-e-administracao-hospitalar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2766
+          },
+          {
+            "courseName": "MBA em Gestão de Clínicas e Consultórios",
+            "courseSlug": "mba-gestao-de-clinicas-e-consultorios",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3412
+          },
+          {
+            "courseName": "MBA em Gestão de Franquias",
+            "courseSlug": "mba-em-gestao-de-franquias",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5170
+          },
+          {
+            "courseName": "MBA em Gestão de Investimentos",
+            "courseSlug": "mba-gestao-de-investimentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6138
+          },
+          {
+            "courseName": "MBA em Gestão de Laboratórios",
+            "courseSlug": "mba-gestao-de-laboratorios",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6225
+          },
+          {
+            "courseName": "MBA em Gestão De Negócios, Marketing e Comunicação nos Esportes",
+            "courseSlug": "mba-gestao-de-negocios-marketing-e-comunicacao-nos-esportes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3552
+          },
+          {
+            "courseName": "MBA em Gestão de Operações, Produção e Serviços",
+            "courseSlug": "mba-em-gestao-de-operacoes-producao-e-servicos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3620
+          },
+          {
+            "courseName": "MBA em Gestão de Pessoas com Ênfase em Diversidade e Inclusão",
+            "courseSlug": "mba-gestao-de-pessoas-com-enfase-em-diversidade-e-inclusao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5248
+          },
+          {
+            "courseName": "MBA em Gestão de Processos Organizacionais",
+            "courseSlug": "gestao-de-processos-organizacionais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5329
+          },
+          {
+            "courseName": "MBA em Gestão de Projetos (12 meses)",
+            "courseSlug": "mba-gestao-de-projetos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2752
+          },
+          {
+            "courseName": "MBA em Gestão de Projetos (6 meses)",
+            "courseSlug": "mba-gestao-de-projetos-2",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5412
+          },
+          {
+            "courseName": "MBA em Gestão Empresarial",
+            "courseSlug": "mba-gestao-empresarial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2754
+          },
+          {
+            "courseName": "MBA em Gestão Estratégica de Pessoas (12 meses)",
+            "courseSlug": "gestao-estrategica-de-pessoas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2753
+          },
+          {
+            "courseName": "MBA em Gestão Estratégica de Pessoas (6 meses)",
+            "courseSlug": "gestao-estrategica-de-pessoas-3",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5413
+          },
+          {
+            "courseName": "MBA em Gestão Estratégica em Comércio Exterior",
+            "courseSlug": "mba-gestao-estrategica-em-comercio-exterior",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3553
+          },
+          {
+            "courseName": "MBA em Gestão Financeira e Controladoria (12 meses)",
+            "courseSlug": "mba-gestao-financeira-e-controladoria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2792
+          },
+          {
+            "courseName": "MBA em Gestão Financeira e Controladoria (6 meses)",
+            "courseSlug": "mba-gestao-financeira-e-controladoria-2",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5415
+          },
+          {
+            "courseName": "MBA em Gestão Fiscal e Tributária",
+            "courseSlug": "mba-gestao-fiscal-e-tributaria",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2873
+          },
+          {
+            "courseName": "MBA em Gestão, Logística e Operações Internacionais",
+            "courseSlug": "mba-gestao-logistica-e-operacoes-internacionais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5312
+          },
+          {
+            "courseName": "MBA em Inovação e Transformação Digital nos Negócios",
+            "courseSlug": "mba-em-inovacao-e-transformacao-digital-nos-negocios",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5247
+          },
+          {
+            "courseName": "MBA em Inteligência Artificial",
+            "courseSlug": "mba-em-inteligencia-artificial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5313
+          },
+          {
+            "courseName": "MBA em Inteligência Competitiva e Inovação em Marketing",
+            "courseSlug": "mba-inteligencia-competitiva-e-inovacao-em-marketing",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3555
+          },
+          {
+            "courseName": "MBA em Inteligência de Negócios - Business Intelligence",
+            "courseSlug": "mba-inteligencia-de-negocios-business-intelligence",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2940
+          },
+          {
+            "courseName": "MBA em Jornalismo Digital e Multiplataforma",
+            "courseSlug": "mba-jornalismo-digital-e-multiplataforma",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5285
+          },
+          {
+            "courseName": "MBA em Jornalismo Empresarial e Comunicação Organizacional",
+            "courseSlug": "mba-jornalismo-empresarial-e-assessoria-de-imprensa",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5286
+          },
+          {
+            "courseName": "MBA em Jornalismo Esportivo",
+            "courseSlug": "mba-jornalismo-esportivo",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3558
+          },
+          {
+            "courseName": "MBA em Liderança e Desenvolvimento de Pessoas",
+            "courseSlug": "mba-lideranca-e-desenvolvimento-de-pessoas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6226
+          },
+          {
+            "courseName": "MBA em Logística Empresarial",
+            "courseSlug": "mba-logistica-empresarial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2793
+          },
+          {
+            "courseName": "MBA em Marketing",
+            "courseSlug": "mba-em-marketing",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2755
+          },
+          {
+            "courseName": "MBA em Marketing e Gestão de Clientes",
+            "courseSlug": "mba-marketing-e-gestao-de-clientes",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6139
+          },
+          {
+            "courseName": "MBA em Marketing Farmacêutico",
+            "courseSlug": "mba-marketing-farmaceutico",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6227
+          },
+          {
+            "courseName": "MBA em Meio Ambiente e Desenvolvimento Sustentável",
+            "courseSlug": "mba-meio-ambiente-e-desenvolvimento-sustentavel",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5158
+          },
+          {
+            "courseName": "MBA em Orçamento Público e Gestão Fiscal Responsável",
+            "courseSlug": "mba-orcamento-publico-e-gestao-fiscal-responsavel",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6188
+          },
+          {
+            "courseName": "MBA em Perícia Contábil",
+            "courseSlug": "mba-pericia-contabil",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6140
+          },
+          {
+            "courseName": "MBA em Prevenção e Gerenciamento de Crises",
+            "courseSlug": "mba-prevencao-e-gerenciamento-de-crises",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6228
+          },
+          {
+            "courseName": "MBA em Redes Sociais",
+            "courseSlug": "mba-redes-sociais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6171
+          },
+          {
+            "courseName": "MBA em Segurança Corporativa",
+            "courseSlug": "mba-seguranca-corporativa",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6151
+          },
+          {
+            "courseName": "MBA em Segurança Privada",
+            "courseSlug": "mba-seguranca-privada",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6158
+          },
+          {
+            "courseName": "MBA Executivo em Finanças Corporativas",
+            "courseSlug": "mba-executivo-em-financas-corporativas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6172
+          },
+          {
+            "courseName": "MBA Executivo em Gestão Estratégica de Negócios e Inovação",
+            "courseSlug": "mba-gestao-estrategica-de-negocios-e-inovacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2991
+          },
+          {
+            "courseName": "Mediação, Arbitragem e Soluções Alternativas de Conflitos | Estácio",
+            "courseSlug": "mediacao-arbitragem-e-solucoes-alternativas-de-conflitos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8715
+          },
+          {
+            "courseName": "Medicina do Trabalho",
+            "courseSlug": "medicina-do-trabalho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2035
+          },
+          {
+            "courseName": "Musculação: Fisiologia e Treinamento",
+            "courseSlug": "musculacao-fisiologia-e-treinamento",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5244
+          },
+          {
+            "courseName": "Negociações Internacionais",
+            "courseSlug": "negociacoes-internacionais",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8613
+          },
+          {
+            "courseName": "Neuroaprendizagem, Dificuldades e Transtornos",
+            "courseSlug": "neuroaprendizagem-dificuldades-e-transtornos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5217
+          },
+          {
+            "courseName": "Neuroaprendizagem, Metodologias e Tecnologias",
+            "courseSlug": "neuroaprendizagem-metodologias-e-tecnologias",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5218
+          },
+          {
+            "courseName": "Neurociência Aplicada à Psicomotricidade",
+            "courseSlug": "neurociencia-aplicada-a-psicomotricidade",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5167
+          },
+          {
+            "courseName": "Neurociência e Comportamento Humano | Estácio - EAD ou Presencial",
+            "courseSlug": "neurociencia-e-comportamento-humano",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5266
+          },
+          {
+            "courseName": "Neurociência na Educação",
+            "courseSlug": "neurociencia-na-educacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5324
+          },
+          {
+            "courseName": "Neurociências Aplicada à Educação",
+            "courseSlug": "neurociencias-aplicada-a-educacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3282
+          },
+          {
+            "courseName": "Neuromarketing e Análise Comportamental",
+            "courseSlug": "neuromarketing-e-analise-comportamental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8714
+          },
+          {
+            "courseName": "Neuropsicologia",
+            "courseSlug": "neuropsicologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8687
+          },
+          {
+            "courseName": "Neuropsicopedagogia",
+            "courseSlug": "neuropsicopedagogia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4396
+          },
+          {
+            "courseName": "Novas Tecnologias e Educação",
+            "courseSlug": "novas-tecnologias-e-educacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5325
+          },
+          {
+            "courseName": "Nutrição Aplicada à Estética",
+            "courseSlug": "nutricao-aplicada-a-estetica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3564
+          },
+          {
+            "courseName": "Nutrição Clínica e Funcional",
+            "courseSlug": "nutricao-clinica-e-funcional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6239
+          },
+          {
+            "courseName": "Nutrição Clínica: Metabolismo, Prática e Terapia Nutricional",
+            "courseSlug": "nutricao-clinica-metabolismo-pratica-e-terapia-nutricional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5156
+          },
+          {
+            "courseName": "Nutrição Esportiva de Alta Perfomance",
+            "courseSlug": "nutricao-esportiva-de-alta-perfomance",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5401
+          },
+          {
+            "courseName": "Nutrição Materno Infantil",
+            "courseSlug": "nutricao-materno-infantil",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3566
+          },
+          {
+            "courseName": "Nutrição na Saúde da Mulher: Aspectos Clínicos, Estéticos e de Performance Esportiva",
+            "courseSlug": "nutricao-na-saude-da-mulher-aspectos-clinicos-esteticos-e-de-performance-esportiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3575
+          },
+          {
+            "courseName": "Ortodontia",
+            "courseSlug": "ortodontia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3376
+          },
+          {
+            "courseName": "Perícia Judicial e Extrajudicial",
+            "courseSlug": "pericia-judicial-e-extrajudicial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6202
+          },
+          {
+            "courseName": "Personal Training: Metodologia Da Preparação Física Personalizada",
+            "courseSlug": "personal-training-metodologia-da-preparacao-fisica-personalizada",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3568
+          },
+          {
+            "courseName": "Planejamento e Gestão Estratégica de Eventos",
+            "courseSlug": "planejamento-e-gestao-estrategica-de-eventos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3305
+          },
+          {
+            "courseName": "Políticas e Gestão em Segurança Pública",
+            "courseSlug": "politicas-e-gestao-em-seguranca-publica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2825
+          },
+          {
+            "courseName": "Políticas Sociais Integradas",
+            "courseSlug": "politicas-sociais-integradas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2882
+          },
+          {
+            "courseName": "Pós em  Nutrição Clínica e Esportiva  | Estácio - EAD ou Presencial",
+            "courseSlug": "suplementacao-nutricional-e-drogas-vegetais-na-nutricao-clinica-e-esportiva",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5269
+          },
+          {
+            "courseName": "Pós em Psicologia Escolar e Educacional  | Estácio - EAD ou Presencial",
+            "courseSlug": "psicologia-escolar-e-educacional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5267
+          },
+          {
+            "courseName": "Pós-graduação em Radioterapia",
+            "courseSlug": "radioterapia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5315
+          },
+          {
+            "courseName": "Psicologia Clínica com Ênfase em Terapia Cognitivo-Comportamental",
+            "courseSlug": "psicologia-clinica-com-enfase-em-terapia-cognitivo-comportamental",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8688
+          },
+          {
+            "courseName": "Psicologia Humanista e Existencial",
+            "courseSlug": "psicologia-humanista-e-existencial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6240
+          },
+          {
+            "courseName": "Psicologia Organizacional e do Trabalho",
+            "courseSlug": "psicologia-organizacional-e-do-trabalho",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5314
+          },
+          {
+            "courseName": "Psicomotricidade e Desenvolvimento Humano",
+            "courseSlug": "psicomotricidade-e-desenvolvimento-humano",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3285
+          },
+          {
+            "courseName": "Psicopedagogia",
+            "courseSlug": "pos-psicopedagogia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8693
+          },
+          {
+            "courseName": "Psicopedagogia Clínica e Institucional",
+            "courseSlug": "psicopedagogia-clinica-e-institucional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2881
+          },
+          {
+            "courseName": "Psicopedagogia Institucional e Clínica",
+            "courseSlug": "psicopedagogia-institucional-e-clinica",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5357
+          },
+          {
+            "courseName": "Saúde da Família",
+            "courseSlug": "saude-da-familia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2845
+          },
+          {
+            "courseName": "Saúde Materno Infantil Multiprofissional",
+            "courseSlug": "saude-materno-infantil-multiprofissional",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8614
+          },
+          {
+            "courseName": "Saúde Mental e Atenção Psicossocial",
+            "courseSlug": "saude-mental-e-atencao-psicossocial",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2831
+          },
+          {
+            "courseName": "Saúde Pública - Política, Planejamento e Gestão",
+            "courseSlug": "saude-publica-politica-planejamento-e-gestao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 4161
+          },
+          {
+            "courseName": "Saúde, Qualidade e Estilo de Vida",
+            "courseSlug": "saude-qualidade-e-estilo-de-vida",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5417
+          },
+          {
+            "courseName": "Segurança da Informação",
+            "courseSlug": "seguranca-da-informacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 2839
+          },
+          {
+            "courseName": "Segurança de Redes de Computadores",
+            "courseSlug": "seguranca-de-redes-de-computadores",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 1456
+          },
+          {
+            "courseName": "Tecnologia de Alimentos",
+            "courseSlug": "tecnologia-de-alimentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5204
+          },
+          {
+            "courseName": "Tecnologia e Inovação no Agronegócio",
+            "courseSlug": "pos-tecnologia-e-inovacao-no-agronegocio",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5213
+          },
+          {
+            "courseName": "Teologia",
+            "courseSlug": "pos-teologia",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3571
+          },
+          {
+            "courseName": "Terapia-Cognitivo Comportamental: Aspectos Teóricos e Aplicações Práticas",
+            "courseSlug": "terapia-cognitivo-comportamental-aspectos-teoricos-e-aplicacoes-praticas",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6229
+          },
+          {
+            "courseName": "Tradução Audiovisual de Espanhol",
+            "courseSlug": "traducao-audiovisual-de-espanhol",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5191
+          },
+          {
+            "courseName": "Tradução Audiovisual de Inglês",
+            "courseSlug": "traducao-audivisual-de-ingles",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5192
+          },
+          {
+            "courseName": "Tradução de Espanhol",
+            "courseSlug": "traducao-de-espanhol",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5193
+          },
+          {
+            "courseName": "Tradução de Inglês",
+            "courseSlug": "traducao-de-ingles",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 5194
+          },
+          {
+            "courseName": "Tradução, Interpretação de Libras e Língua Portuguesa",
+            "courseSlug": "traducao-interpretacao-de-libras-e-lingua-portuguesa",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3288
+          },
+          {
+            "courseName": "Traumato-Ortopedia com Ênfase em Terapia Manual",
+            "courseSlug": "traumato-ortopedia-com-enfase-em-terapia-manual",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6241
+          },
+          {
+            "courseName": "Treinamento Funcional, Performance e Reabilitação",
+            "courseSlug": "treinamento-funcional-performance-e-reabilitacao",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 8708
+          },
+          {
+            "courseName": "Urgência e Emergência Pré-Hospitalar e Hospitalar",
+            "courseSlug": "urgencia-e-emergencia-pre-hospitalar-e-hospitalar",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 6242
+          },
+          {
+            "courseName": "Vigilância Sanitária e Qualidade de Alimentos",
+            "courseSlug": "vigilancia-sanitaria-e-qualidade-de-alimentos",
+            "slug": "cursos/pos-graduacao",
+            "type": "POS",
+            "code": 3478
+          }
+        ],
+        "tecnico": [],
+        "tecnicoCustom": [],
+        "profissionalizante": []
+      }
+    }
+  ]
+} 

@@ -1,0 +1,1844 @@
+{
+  "course": [
+      {
+        "pageName": "Administração de Condomínios",
+        "courseName": "Administração de Condomínio",
+        "slug": "administracao-de-condominios",
+        "code": 100028,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/administracao-de-condominios",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Ciências Jurídicas",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "f4b2243e-9860-47ed-b358-8aee84298dd2",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Assistente de Controle de Qualidade",
+        "courseName": "Assistente de Controle de Qualidade",
+        "slug": "assistente-de-controle-de-qualidade",
+        "code": 100005,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/assistente-de-controle-de-qualidade",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "ca31592c-855b-4577-8913-5ad31ee6469c",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Assistente de Produção Audiovisual",
+        "courseName": "Assistente de Produção Audiovisual",
+        "slug": "assistente-de-producao-audiovisual",
+        "code": 100020,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/assistente-de-producao-audiovisual",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "7b7716a1-ad5d-441b-947b-bfec4e834127",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Assistente de Secretaria Escolar",
+        "courseName": "Assistente de Secretaria Escolar",
+        "slug": "assistente-de-secretaria-escolar",
+        "code": 100010,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/assistente-de-secretaria-escolar",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Educação",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "aeef2a96-e3bf-4b9f-bb97-e87b7c08e002",
+        "price": {
+          "original": 999,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Assistente Fiscal",
+        "courseName": "Assistente Fiscal",
+        "slug": "assistente-fiscal",
+        "code": 100038,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/assistente-fiscal",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Ciências Jurídicas",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "0f8cc733-3d86-4fbe-bf33-37ecde6eee65",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Atendente de Farmácia",
+        "courseName": "Atendente de Farmácia",
+        "slug": "atendente-de-farmacia",
+        "code": 100034,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/atendente-de-farmacia",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "d5ec2cc3-1fd0-4f19-930e-b88b7323120b",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Atendimento ao Cliente",
+        "courseName": "Atendimento ao Cliente",
+        "slug": "atendente-ao-cliente",
+        "code": 100018,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/atendente-ao-cliente",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "da6bf54c-dc76-41c5-b284-18bc338c5e02",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar Administrativo",
+        "courseName": "Auxiliar Administrativo",
+        "slug": "auxiliar-administrativo",
+        "code": 100024,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-administrativo",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "531d9981-0eab-4c4d-8e31-8a82359d04cb",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar Administrativo Imobiliário",
+        "courseName": "Auxiliar Administrativo Imobiliário",
+        "slug": "auxiliar-administrativo-imobiliario",
+        "code": 100031,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-administrativo-imobiliario",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "09b97b8b-ba95-49ab-862c-0a90bb8daa71",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Análise de Dados",
+        "courseName": "Auxiliar de Análise de Dados",
+        "slug": "auxiliar-de-analise-de-dados",
+        "code": 100033,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-analise-de-dados",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "3cd7f8ce-aeff-4968-82a5-50ac0090dacd",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Confeitaria",
+        "courseName": "Auxiliar de Confeitaria",
+        "slug": "auxiliar-de-confeitaria",
+        "code": 100006,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-confeitaria",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "63be473a-bcca-44fd-887a-5ebfde008870",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Despachante Aduaneiro",
+        "courseName": "Auxiliar de Despachante Aduaneiro",
+        "slug": "auxiliar-de-despachante-aduaneiro",
+        "code": 100009,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-despachante-aduaneiro",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Ciências Jurídicas",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "e605c4d3-615f-4854-85ae-e6cc14cb7268",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Edificações",
+        "courseName": "Auxiliar de Edificações",
+        "slug": "auxiliar-de-edificacoes",
+        "code": 100007,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-edificacoes",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Engenharia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "5dea8bd0-f6f8-4845-9e69-f9fd1bd8a8c9",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Gestão de Obras",
+        "courseName": "Auxiliar de Gestão de Obras",
+        "slug": "auxiliar-de-gestao-obras",
+        "code": 100015,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-gestao-obras",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "2531e3ee-3ed3-4b3f-8057-0221c6d8e157",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Informática",
+        "courseName": "Auxiliar de Informática",
+        "slug": "auxiliar-de-informatica",
+        "code": 100026,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-informatica",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "62a59669-42a2-4bd3-956c-37988e4d4c5c",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Inteligência Artificial",
+        "courseName": "Auxiliar de Inteligência Artificial",
+        "slug": "auxiliar-em-inteligencia-artificial",
+        "code": 100014,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-em-inteligencia-artificial",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "18b4eef7-80e0-48c1-87b3-b1c2dc0ddffa",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Laboratório",
+        "courseName": "Auxiliar de Laboratório",
+        "slug": "auxiliar-de-laboratorio",
+        "code": 100012,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-laboratorio",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "e5e682c0-a8e0-4f4e-99f1-c5d6aa93e680",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de logística",
+        "courseName": "Auxiliar de Logística",
+        "slug": "auxiliar-logistica",
+        "code": 100013,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-logistica",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "ed204712-d866-47c5-b595-dfc67496a1e3",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Marketing Digital",
+        "courseName": "Auxiliar de Marketing Digital",
+        "slug": "auxiliar-de-marketing-digital",
+        "code": 100019,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-marketing-digital",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "45383d4a-26dc-4d3d-9e82-6bfd27011c8c",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Mídias Sociais e Criador de Conteúdo Digital",
+        "courseName": "Auxiliar de Mídias Sociais e Criador de Conteúdo Digital",
+        "slug": "auxiliar-de-midias-sociais-e-criador-de-conteudo-digital",
+        "code": 100037,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-midias-sociais-e-criador-de-conteudo-digital",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "b0743b97-0979-4740-92fe-fdd753852315",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Panificação e Confeitaria",
+        "courseName": "Auxiliar de Panificação e Confeitaria",
+        "slug": "auxiliar-de-panificacao-e-confeitaria",
+        "code": 100022,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-panificacao-e-confeitaria",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "16dd95ad-37f9-4a8b-966c-fe0036cd4f61",
+        "price": {
+          "original": 999,
+          "promotional": 499,
+          "installments": {
+            "quantity": 6,
+            "value": 83.16666666666667
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Recursos Humanos",
+        "courseName": "Auxiliar de Recursos Humanos",
+        "slug": "auxiliar-de-recursos-humanos",
+        "code": 100036,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-recursos-humanos",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "7efc54c7-ea4a-425d-9a7c-43e96abdf24d",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar de Telecomunicações",
+        "courseName": "Auxiliar de Telecomunicações",
+        "slug": "auxiliar-de-telecomunicoes",
+        "code": 100035,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-de-telecomunicoes",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Engenharia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "1d2f81e6-4ae4-4bc6-af94-98dd309d488c",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar em Seguros",
+        "courseName": "Auxiliar em Seguros",
+        "slug": "auxiliar-em-seguros",
+        "code": 100039,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-em-seguros",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "3d6a9ae1-d831-4480-9896-eb7965b2b966",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar Financeiro",
+        "courseName": "Auxiliar Financeiro",
+        "slug": "auxiliar-financeiro",
+        "code": 100027,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-financeiro",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "21b79a20-1748-4790-8e3b-1b26468102d3",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar Jurídico",
+        "courseName": "Auxiliar Jurídico",
+        "slug": "auxiliar-juridico",
+        "code": 100016,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-juridico",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Ciências Jurídicas",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "54f670ef-ef17-4a6e-9729-9f8ae757547f",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Auxiliar Veterinário",
+        "courseName": "Auxiliar Veterinário",
+        "slug": "auxiliar-veterinario",
+        "code": 100021,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/auxiliar-veterinario",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "093e3b5a-d244-4c01-b2bf-50e1fb5a70f1",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Comércio Exterior",
+        "courseName": "Comércio Exterior - Profissionalizante",
+        "slug": "profissionalizante-comercio-exterior",
+        "code": 100004,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/profissionalizante-comercio-exterior",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "92a0e087-595e-476c-a47d-9ca9dabcf7ab",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Customer Experience (CX)",
+        "courseName": "Customer Experience",
+        "slug": "customer-experience",
+        "code": 100029,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/customer-experience",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "ac389d95-9e15-46e2-8da2-ea457e1c957a",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Desenvolvimento Back-End",
+        "courseName": "Desenvolvimento Back-End",
+        "slug": "desenvolvimento-back-end",
+        "code": 100002,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/desenvolvimento-back-end",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "6058ba27-91f2-4bf9-bc7d-0f9c0e9cde4e",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Desenvolvimento Front-End",
+        "courseName": "Desenvolvimento Front-End",
+        "slug": "desenvolvimento-front-end",
+        "code": 100032,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/desenvolvimento-front-end",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "91aa467b-fdb2-4e1f-836b-5e13f8eead41",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Desenvolvimento Mobile",
+        "courseName": "Desenvolvimento mobile",
+        "slug": "profissionalizante-desenvolvimento-mobile",
+        "code": 100008,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/profissionalizante-desenvolvimento-mobile",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "5c98e152-fdd4-4032-bd75-563c2f646ba4",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "E-Commerce",
+        "courseName": "E-commerce",
+        "slug": "ecommerce",
+        "code": 100040,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/ecommerce",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "3391baad-cb0c-4378-a4c0-0b9ce58638b6",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Gestão de Vendas",
+        "courseName": "Gestão de Vendas",
+        "slug": "gestao-de-vendas",
+        "code": 100023,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/gestao-de-vendas",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "85a3994d-62f9-4cee-bbad-875786865fc1",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Inbound Marketing",
+        "courseName": "Inbound Marketing",
+        "slug": "inbound-marketing",
+        "code": 100030,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/inbound-marketing",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "912eeecc-ceea-46a2-bce6-3b856634051f",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Programador de Sistemas",
+        "courseName": "Programador de Sistemas",
+        "slug": "programador-de-sistemas",
+        "code": 100017,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/programador-de-sistemas",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "d6e6b668-94ae-435a-a161-ad02d1a9eb3b",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Recepcionista Hospitalar e de Serviços de Saúde",
+        "courseName": "Recepcionista Hospitalar e de Serviços de Saúde",
+        "slug": "recepcionista-hospitalar-e-de-servicos-de-saude",
+        "code": 100025,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/recepcionista-hospitalar-e-de-servicos-de-saude",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "bb68975d-badd-47b6-85a3-cef2a35b5700",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Sales Development Representative",
+        "courseName": "Sales Development Representative",
+        "slug": "sales-development-representative",
+        "code": 100001,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/sales-development-representative",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "328e216c-3b18-481a-8918-790edb64ee0e",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Técnicas de Maquiagem",
+        "courseName": "Técnicas de Maquiagem",
+        "slug": "tecnicas-de-maquiagem",
+        "code": 100003,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnicas-de-maquiagem",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "b990489c-f583-4858-92ca-b9439dd4affb",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      },
+      {
+        "pageName": "Técnico em Administração",
+        "courseName": "Técnico em Administração",
+        "slug": "tecnico-em-administracao",
+        "code": 9500,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-administracao",
+        "metadata": {
+          "duration": "DOZE_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Análises Clínicas",
+        "courseName": "Técnico em Análises Clínicas",
+        "slug": "tecnico-em-analises-clinicas",
+        "code": 9509,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-analises-clinicas",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Automação Industrial",
+        "courseName": "Técnico em Automação Industrial",
+        "slug": "tecnico-em-automacao-industrial",
+        "code": 9501,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-automacao-industrial",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Engenharia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Desenvolvimento de Sistemas",
+        "courseName": "Técnico em Desenvolvimento de Sistemas",
+        "slug": "tecnico-em-desenvolvimento-de-sistemas",
+        "code": 9511,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-desenvolvimento-de-sistemas",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Edificações",
+        "courseName": "Técnico em Edificações",
+        "slug": "tecnico-em-edificacoes",
+        "code": 9515,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-edificacoes",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Engenharia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Enfermagem",
+        "courseName": "Técnico em Enfermagem",
+        "slug": "tecnico-em-enfermagem",
+        "code": 9502,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-enfermagem",
+        "metadata": {
+          "duration": "DOIS_ANOS",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Estética",
+        "courseName": "Técnico em Estética",
+        "slug": "tecnico-em-estetica",
+        "code": 9508,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-estetica",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Gastronomia",
+        "courseName": "Técnico em Gastronomia",
+        "slug": "tecnico-em-gastronomia",
+        "code": 9513,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-gastronomia",
+        "metadata": {
+          "duration": "DOIS_ANOS",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Informática",
+        "courseName": "Técnico em Informática",
+        "slug": "tecnico-em-informatica",
+        "code": 9503,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-informatica",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Logística",
+        "courseName": "Técnico em Logística",
+        "slug": "tecnico-em-logistica",
+        "code": 9504,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-logistica",
+        "metadata": {
+          "duration": "DOZE_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Mecânica",
+        "courseName": "Técnico em Mecânica",
+        "slug": "tecnico-em-mecanica",
+        "code": 9514,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-mecanica",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Nutrição e Dietética",
+        "courseName": "Técnico em Nutrição e Dietética",
+        "slug": "tecnico-em-nutricao-e-dietetica",
+        "code": 9510,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-nutricao-e-dietetica",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Produção Áudio e Vídeo",
+        "courseName": "Técnico em Produção Áudio e Vídeo",
+        "slug": "tecnico-em-producao-audio-e-video",
+        "code": 9512,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-producao-audio-e-video",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Economia Criativa",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Próteses Dentárias",
+        "courseName": "Técnico em Próteses Dentárias",
+        "slug": "tecnico-em-proteses-dentarias",
+        "code": 9521,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-proteses-dentarias",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Radiologia",
+        "courseName": "Técnico em Radiologia",
+        "slug": "tecnico-em-radiologia",
+        "code": 9522,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-radiologia",
+        "metadata": {
+          "duration": "DOIS_ANOS",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Recursos Humanos",
+        "courseName": "Técnico em Recursos Humanos",
+        "slug": "tecnico-em-recursos-humanos",
+        "code": 9505,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-recursos-humanos",
+        "metadata": {
+          "duration": "DOZE_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Gestão e Negócios",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Redes de Computadores",
+        "courseName": "Técnico em Redes de Computadores",
+        "slug": "tecnico-em-redes-de-computadores",
+        "code": 9506,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-redes-de-computadores",
+        "metadata": {
+          "duration": "TRES_ANOS",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Saúde Bucal",
+        "courseName": "Técnico em Saúde Bucal",
+        "slug": "tecnico-em-saude-bucal",
+        "code": 9520,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-saude-bucal",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Segurança do Trabalho",
+        "courseName": "Técnico em Segurança do Trabalho",
+        "slug": "tecnico-em-seguranca-do-trabalho",
+        "code": 9507,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-seguranca-do-trabalho",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Engenharia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Técnico em Veterinária",
+        "courseName": "Técnico em Veterinária",
+        "slug": "tecnico-em-veterinaria",
+        "code": 9518,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/tecnico-em-veterinaria",
+        "metadata": {
+          "duration": "UM_ANO_E_SEIS_MESES",
+          "certification": "TECNICO",
+          "category": "CURSOS_TECNICOS",
+          "modality": [
+            "PRESENCIAL"
+          ],
+          "interestArea": "Saúde",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": 65,
+        "codOfertaOPX": null,
+        "price": null
+      },
+      {
+        "pageName": "Web Design",
+        "courseName": "Web Design",
+        "slug": "web-design",
+        "code": 100011,
+        "type": "TECNICO_PROFISSIONALIZANTE",
+        "courseHighlightTag": null,
+        "fullSlug": "/cursos-tecnicos-e-profissionalizantes/web-design",
+        "metadata": {
+          "duration": "SEIS_MESES",
+          "certification": "PROFISSIONALIZANTE",
+          "category": "CURSOS_PROFISSIONALIZANTES",
+          "modality": [
+            "TOTAL EAD"
+          ],
+          "interestArea": "Tecnologia",
+          "specialty": null
+        },
+        "body": null,
+        "enableCode": null,
+        "enablesByModality": [],
+        "showMoreInfoText": null,
+        "startPrice": null,
+        "codOfertaOPX": "1343a8aa-3d34-4570-81b3-0023e230fd68",
+        "price": {
+          "original": 1099,
+          "promotional": 594,
+          "installments": {
+            "quantity": 6,
+            "value": 99
+          }
+        }
+      }
+    ]
+    }

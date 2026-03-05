@@ -19,6 +19,9 @@ const EnvSchema = z.object({
     .string()
     .min(32, 'BETTER_AUTH_SECRET must be at least 32 characters'),
   BETTER_AUTH_URL: z.string().url(),
+  STRIPE_SECRET_KEY: z.string().optional(),
+  STRIPE_WEBHOOK_SECRET: z.string().optional(),
+  MERCADO_PAGO_ACCESS_TOKEN: z.string().optional(),
 
   // OAuth Provider Credentials (Optional)
   // Only required if you enable social login providers in Better Auth configuration

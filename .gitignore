@@ -32,3 +32,5 @@ build-plan.json
 .flaskenv*
 !.env.project
 !.env.vault
+.gemini/
+gha-creds-*.json

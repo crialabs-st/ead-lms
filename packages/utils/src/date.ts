@@ -5,7 +5,7 @@ export function formatDate(date: Date | string): string {
 
 export function formatDateTime(date: Date | string): string {
   const d = typeof date === 'string' ? new Date(date) : date;
-  return d.toLocaleString('en-US', {
+  return d.toLocaleString('pt-BR', {
     year: 'numeric',
     month: 'short',
     day: 'numeric',
@@ -19,9 +19,9 @@ export function formatShortDate(
   includeYear = false
 ): string {
   const d = typeof date === 'string' ? new Date(date) : date;
-  return d.toLocaleString('en-US', {
+  return d.toLocaleString('pt-BR', {
     month: 'short',
-    day: 'numeric',
+    day: '2-digit',
     ...(includeYear && { year: 'numeric' }),
   });
 }
@@ -36,27 +36,27 @@ export function getRelativeTime(
   const seconds = Math.floor((now.getTime() - d.getTime()) / 1000);
 
   if (seconds < 60) {
-    return alwaysShowTime ? (short ? '1m ago' : '1 minute ago') : 'just now';
+    return alwaysShowTime ? (short ? '1m atrás' : '1 minuto atrás') : 'agora mesmo';
   }
 
-  const minutes = Math.floor(seconds / 60);
-  if (minutes < 60) {
-    return short ? `${minutes}m ago` : `${minutes} minutes ago`;
+  const minutos = Math.floor(seconds / 60);
+  if (minutos < 60) {
+    return short ? `${minutos}m atrás` : `${minutos} minutos atrás`;
   }
 
   const hours = Math.floor(seconds / 3600);
   if (hours < 24) {
-    return short ? `${hours}h ago` : `${hours} hours ago`;
+    return short ? `${hours}h atrás` : `${hours} hours atrás`;
   }
 
-  const days = Math.floor(seconds / 86400);
-  if (days < 7) {
-    return short ? `${days}d ago` : `${days} days ago`;
+  const dias = Math.floor(seconds / 86400);
+  if (dias < 7) {
+    return short ? `${dias}d atrás` : `${dias} dias atrás`;
   }
 
-  const weeks = Math.floor(days / 7);
-  if (weeks < 4) {
-    return short ? `${weeks}w ago` : `${weeks} weeks ago`;
+  const semanas = Math.floor(dias / 7);
+  if (semanas < 4) {
+    return short ? `${semanas}w atrás` : `${semanas} semanas atrás`;
   }
 
   return formatDate(d);
@@ -74,4 +74,117 @@ export function formatTime(date: Date | string | number): string {
     minute: '2-digit',
     second: '2-digit',
   });
+}
+
+
+
+export class PriceFormatter {
+  static formatPrice(value: number, currency: string = 'BRL'): string {
+    return new Intl.NumberFormat('pt-BR', {
+      style: 'currency',
+      currency: currency,
+    }).format(value);
+  }
+
+  static formatPriceWithPeriod(
+    value: number,
+    period: string,
+    currency: string = 'BRL'
+  ): string {
+    const formatted = PriceFormatter.formatPrice(value, currency);
+    const periodMap: Record<string, string> = {
+      mensal: '/mês',
+      semestral: '/semestre',
+      anual: '/ano',
+      unica: '',
+    };
+    return `${formatted}${periodMap[period] || ''}`;
+  }
+}
+
+
+export class ProgressFormatter {
+  static formatPercentage(value: number): string {
+    return `${Math.round(value)}%`;
+  }
+
+  static getProgressColor(
+    percentage: number
+  ): 'success' | 'warning' | 'danger' {
+    if (percentage >= 80) return 'success';
+    if (percentage >= 50) return 'warning';
+    return 'danger';
+  }
+
+  static formatDuration(minutes: number): string {
+    const hours = Math.floor(minutes / 60);
+    const remainingMinutes = minutes % 60;
+
+    if (hours === 0) {
+      return `${remainingMinutes}min`;
+    }
+
+    if (remainingMinutes === 0) {
+      return `${hours}h`;
+    }
+
+    return `${hours}h${remainingMinutes}min`;
+  }
+}
+
+export class TextFormatter {
+  static truncate(text: string, maxLength: number): string {
+    if (text.length <= maxLength) return text;
+    return text.substring(0, maxLength) + '...';
+  }
+
+  static formatStudentStatus(status: string): string {
+    const statusMap: Record<string, string> = {
+      'cursando': 'Em Andamento',
+      'concluido': 'Concluído',
+      'trancado': 'Trancado',
+      'jubilado': 'Jubilado'
+    };
+    return statusMap[status] || status;
+  }
+
+  static formatCourseLevel(level: string): string {
+    const levelMap: Record<string, string> = {
+      'tecnico': 'Técnico',
+      'graduacao': 'Graduação',
+      'pos-graduacao': 'Pós-Graduação',
+      'extensao': 'Extensão'
+    };
+    return levelMap[level] || level;
+  }
+
+  static formatModality(modality: string): string {
+    const modalityMap: Record<string, string> = {
+      'presencial': 'Presencial',
+      'ead': 'EAD',
+      'hibrido': 'Híbrido'
+    };
+    return modalityMap[modality] || modality;
+  }
+
+  static capitalizeFirst(text: string): string {
+    return text.charAt(0).toUpperCase() + text.slice(1).toLowerCase();
+  }
+}
+
+export class ValidationUtils {
+  static isValidEmail(email: string): boolean {
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    return emailRegex.test(email);
+  }
+
+  static isValidCPF(cpf: string): boolean {
+    // Basic CPF validation - in a real app, use a proper library
+    const cleanCPF = cpf.replace(/[^\d]/g, '');
+    return cleanCPF.length === 11;
+  }
+
+  static sanitizeInput(input: string): string {
+    return input.trim().replace(/[<>]/g, '');
+  }
 }
